@@ -1,0 +1,6187 @@
+fileFormatVersion: 2
+guid: 71a7f8669de848e45ba57bda95f3a58e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: DGT Automatic rifle 6
+  - first:
+      213: 21300002
+    second: DGT Automatic rifle 1
+  - first:
+      213: 21300004
+    second: DGT Handgun 5
+  - first:
+      213: 21300006
+    second: DGT Automatic rifle 5
+  - first:
+      213: 21300008
+    second: DGT Semiautomatic rifle 1
+  - first:
+      213: 21300010
+    second: DGT Handgun 4
+  - first:
+      213: 21300012
+    second: DGT Shotgun 2
+  - first:
+      213: 21300014
+    second: DGT Handgun 3
+  - first:
+      213: 21300016
+    second: DGT Submachinegun 3
+  - first:
+      213: 21300018
+    second: DGT Automatic rifle 2
+  - first:
+      213: 21300020
+    second: DGT Sniper 3
+  - first:
+      213: 21300022
+    second: DGT Handgun 2
+  - first:
+      213: 21300024
+    second: DGT Submachinegun 1
+  - first:
+      213: 21300026
+    second: DGT Shotgun 1
+  - first:
+      213: 21300028
+    second: DGT Handgun 1
+  - first:
+      213: 21300030
+    second: DGT Rifle 1
+  - first:
+      213: 21300032
+    second: DGT Rocketlauncher 1
+  - first:
+      213: 21300034
+    second: DGT Sniper 2
+  - first:
+      213: 21300036
+    second: DGT Sniper 1
+  - first:
+      213: 21300038
+    second: DGT Combat knife
+  - first:
+      213: 21300040
+    second: DGT Automatic shotgun 1
+  - first:
+      213: 21300042
+    second: DGT Submachinegun 2
+  - first:
+      213: 21300044
+    second: DGT Automatic rifle 3
+  - first:
+      213: 21300046
+    second: DGT Automatic rifle 4
+  - first:
+      213: 797122564929594510
+    second: Dark grey spritesheet 2_0
+  - first:
+      213: -7574285266212461617
+    second: Dark grey spritesheet 2_1
+  - first:
+      213: 7419072900474942276
+    second: Dark grey spritesheet 2_2
+  - first:
+      213: -6312070175610807880
+    second: Dark grey spritesheet 2_3
+  - first:
+      213: -70752332187043566
+    second: Dark grey spritesheet 2_4
+  - first:
+      213: -5114820967992204248
+    second: Dark grey spritesheet 2_5
+  - first:
+      213: 4082758926080152915
+    second: Dark grey spritesheet 2_6
+  - first:
+      213: 7026152708391045465
+    second: Dark grey spritesheet 2_7
+  - first:
+      213: -6453387356058231228
+    second: Dark grey spritesheet 2_8
+  - first:
+      213: 7397126585252794988
+    second: Dark grey spritesheet 2_9
+  - first:
+      213: 5678302273305459122
+    second: Dark grey spritesheet 2_10
+  - first:
+      213: -4828312256490833537
+    second: Dark grey spritesheet 2_11
+  - first:
+      213: -1903440036953604001
+    second: Dark grey spritesheet 2_12
+  - first:
+      213: 2445194787293391309
+    second: Dark grey spritesheet 2_13
+  - first:
+      213: -7642066482753223151
+    second: Dark grey spritesheet 2_14
+  - first:
+      213: -5036057664657371988
+    second: Dark grey spritesheet 2_15
+  - first:
+      213: -7505248284490490046
+    second: Dark grey spritesheet 2_16
+  - first:
+      213: 640440763734545801
+    second: Dark grey spritesheet 2_17
+  - first:
+      213: 3752307535979019798
+    second: Dark grey spritesheet 2_18
+  - first:
+      213: -6180818549804120661
+    second: Dark grey spritesheet 2_19
+  - first:
+      213: -4455649465129809450
+    second: Dark grey spritesheet 2_20
+  - first:
+      213: -7312119488596051716
+    second: Dark grey spritesheet 2_21
+  - first:
+      213: 6290360596900867551
+    second: Dark grey spritesheet 2_22
+  - first:
+      213: -7929216074838688411
+    second: Dark grey spritesheet 2_23
+  - first:
+      213: 3354682883320205729
+    second: Dark grey spritesheet 2_24
+  - first:
+      213: -1182038352390231923
+    second: Dark grey spritesheet 2_25
+  - first:
+      213: -3658429756203121536
+    second: Dark grey spritesheet 2_26
+  - first:
+      213: 5965468781132940918
+    second: Dark grey spritesheet 2_27
+  - first:
+      213: -55905872829626112
+    second: Dark grey spritesheet 2_28
+  - first:
+      213: -7785176498580389281
+    second: Dark grey spritesheet 2_29
+  - first:
+      213: 4873429373765983882
+    second: Dark grey spritesheet 2_30
+  - first:
+      213: 2027679929067629562
+    second: Dark grey spritesheet 2_31
+  - first:
+      213: 417470191649827138
+    second: Dark grey spritesheet 2_32
+  - first:
+      213: 3168072603104244979
+    second: Dark grey spritesheet 2_33
+  - first:
+      213: -3395195640055685131
+    second: Dark grey spritesheet 2_34
+  - first:
+      213: 7448979615066562607
+    second: Dark grey spritesheet 2_35
+  - first:
+      213: 7744100659806943874
+    second: Dark grey spritesheet 2_36
+  - first:
+      213: 5970054341696873147
+    second: Dark grey spritesheet 2_37
+  - first:
+      213: 6505131358679307727
+    second: Dark grey spritesheet 2_38
+  - first:
+      213: -3174426383521722700
+    second: Dark grey spritesheet 2_39
+  - first:
+      213: -1910441882043500487
+    second: Dark grey spritesheet 2_40
+  - first:
+      213: 3634288263662139477
+    second: Dark grey spritesheet 2_41
+  - first:
+      213: 2981072855242346305
+    second: Dark grey spritesheet 2_42
+  - first:
+      213: 789974492332057041
+    second: Dark grey spritesheet 2_43
+  - first:
+      213: -1901033430526600149
+    second: Dark grey spritesheet 2_44
+  - first:
+      213: 9166774381107664210
+    second: Dark grey spritesheet 2_45
+  - first:
+      213: 2212169773897611675
+    second: Dark grey spritesheet 2_46
+  - first:
+      213: -2061507073270004671
+    second: Dark grey spritesheet 2_47
+  - first:
+      213: -3208848088948081753
+    second: Dark grey spritesheet 2_48
+  - first:
+      213: -1902430222612099621
+    second: Dark grey spritesheet 2_49
+  - first:
+      213: 5080131083095158488
+    second: Dark grey spritesheet 2_50
+  - first:
+      213: -3255157819671026422
+    second: Dark grey spritesheet 2_51
+  - first:
+      213: 1906369464120523433
+    second: Dark grey spritesheet 2_52
+  - first:
+      213: -1131871145728294835
+    second: Dark grey spritesheet 2_53
+  - first:
+      213: 5394128674735586530
+    second: Dark grey spritesheet 2_54
+  - first:
+      213: -6744357778861781434
+    second: Dark grey spritesheet 2_55
+  - first:
+      213: -7020088648627192542
+    second: Dark grey spritesheet 2_56
+  - first:
+      213: 612168649472589308
+    second: Dark grey spritesheet 2_57
+  - first:
+      213: -1453509141525026571
+    second: Dark grey spritesheet 2_58
+  - first:
+      213: 5108258342473037639
+    second: Dark grey spritesheet 2_59
+  - first:
+      213: 5631738439778099817
+    second: Dark grey spritesheet 2_60
+  - first:
+      213: 1164886907530312365
+    second: Dark grey spritesheet 2_61
+  - first:
+      213: 388162493519981639
+    second: Dark grey spritesheet 2_62
+  - first:
+      213: 5590547936002529510
+    second: Dark grey spritesheet 2_63
+  - first:
+      213: 5703879222379696859
+    second: Dark grey spritesheet 2_64
+  - first:
+      213: -6040011714085030199
+    second: Dark grey spritesheet 2_65
+  - first:
+      213: -8232083648172204857
+    second: Dark grey spritesheet 2_66
+  - first:
+      213: -1839560903434952403
+    second: Dark grey spritesheet 2_67
+  - first:
+      213: -4849591278907960424
+    second: Dark grey spritesheet 2_68
+  - first:
+      213: -4095105215092781764
+    second: Dark grey spritesheet 2_69
+  - first:
+      213: 576290103314964849
+    second: Dark grey spritesheet 2_70
+  - first:
+      213: -5961536916302479132
+    second: Dark grey spritesheet 2_71
+  - first:
+      213: 6100880914461392125
+    second: Dark grey spritesheet 2_72
+  - first:
+      213: -1987787604740589972
+    second: Dark grey spritesheet 2_73
+  - first:
+      213: 9103876747196813881
+    second: Dark grey spritesheet 2_74
+  - first:
+      213: -6459068351356397922
+    second: Dark grey spritesheet 2_75
+  - first:
+      213: -4366624773453252667
+    second: Dark grey spritesheet 2_76
+  - first:
+      213: 1123475451368398513
+    second: Dark grey spritesheet 2_77
+  - first:
+      213: -8043322161569573953
+    second: Dark grey spritesheet 2_78
+  - first:
+      213: -4771287079881374488
+    second: Dark grey spritesheet 2_79
+  - first:
+      213: 5059765578422268193
+    second: Dark grey spritesheet 2_80
+  - first:
+      213: -2294229419551937064
+    second: Dark grey spritesheet 2_81
+  - first:
+      213: 8953692960514040282
+    second: Dark grey spritesheet 2_82
+  - first:
+      213: 5839856811267814073
+    second: Dark grey spritesheet 2_83
+  - first:
+      213: -8694334546494565515
+    second: Dark grey spritesheet 2_84
+  - first:
+      213: -5495377699356859800
+    second: Dark grey spritesheet 2_85
+  - first:
+      213: 820190034039851136
+    second: Dark grey spritesheet 2_86
+  - first:
+      213: 2455252467285510610
+    second: Dark grey spritesheet 2_87
+  - first:
+      213: 7733086613005142062
+    second: Dark grey spritesheet 2_88
+  - first:
+      213: 2796457431611799670
+    second: Dark grey spritesheet 2_89
+  - first:
+      213: -5738126250592958495
+    second: Dark grey spritesheet 2_90
+  - first:
+      213: -4080123318677474546
+    second: Dark grey spritesheet 2_91
+  - first:
+      213: -7173625689042211617
+    second: Dark grey spritesheet 2_92
+  - first:
+      213: -3393208630137984574
+    second: Dark grey spritesheet 2_93
+  - first:
+      213: -5782601579702641086
+    second: Dark grey spritesheet 2_94
+  - first:
+      213: 2422530587288422050
+    second: Dark grey spritesheet 2_95
+  - first:
+      213: -4864550013715272851
+    second: Dark grey spritesheet 2_96
+  - first:
+      213: 6785430282293922201
+    second: Dark grey spritesheet 2_97
+  - first:
+      213: -2295380339485067898
+    second: Dark grey spritesheet 2_98
+  - first:
+      213: 811884678260653007
+    second: Dark grey spritesheet 2_99
+  - first:
+      213: -3818549610633329517
+    second: Dark grey spritesheet 2_100
+  - first:
+      213: 4284047739340258974
+    second: Dark grey spritesheet 2_101
+  - first:
+      213: 4874249366801377518
+    second: Dark grey spritesheet 2_102
+  - first:
+      213: -9164378274393573557
+    second: Dark grey spritesheet 2_103
+  - first:
+      213: 5350005099444115471
+    second: Dark grey spritesheet 2_104
+  - first:
+      213: 9212709607255450517
+    second: Dark grey spritesheet 2_105
+  - first:
+      213: 3647132961853760870
+    second: Dark grey spritesheet 2_106
+  - first:
+      213: -6687223739289784013
+    second: Dark grey spritesheet 2_107
+  - first:
+      213: 7150846867869013371
+    second: Dark grey spritesheet 2_108
+  - first:
+      213: -3754680907473402102
+    second: Dark grey spritesheet 2_109
+  - first:
+      213: 7761574277440074012
+    second: Dark grey spritesheet 2_110
+  - first:
+      213: 6134978109796490022
+    second: Dark grey spritesheet 2_111
+  - first:
+      213: -5328828124323709767
+    second: Dark grey spritesheet 2_112
+  - first:
+      213: 6407117915786840158
+    second: Dark grey spritesheet 2_113
+  - first:
+      213: -823776772805224147
+    second: Dark grey spritesheet 2_114
+  - first:
+      213: -1075729408124421581
+    second: Dark grey spritesheet 2_115
+  - first:
+      213: -7165403142325839268
+    second: Dark grey spritesheet 2_116
+  - first:
+      213: 8817994341098920088
+    second: Dark grey spritesheet 2_117
+  - first:
+      213: 509535699769069655
+    second: Dark grey spritesheet 2_118
+  - first:
+      213: 4772903386914083400
+    second: Dark grey spritesheet 2_119
+  - first:
+      213: -7048776169747256274
+    second: Dark grey spritesheet 2_120
+  - first:
+      213: -8837257412056105690
+    second: Dark grey spritesheet 2_121
+  - first:
+      213: 5768333911136577234
+    second: Dark grey spritesheet 2_122
+  - first:
+      213: -5250283624968316733
+    second: Dark grey spritesheet 2_123
+  - first:
+      213: 211649823841028559
+    second: Dark grey spritesheet 2_124
+  - first:
+      213: 8292430331879730097
+    second: Dark grey spritesheet 2_125
+  - first:
+      213: -9179520032993864777
+    second: Dark grey spritesheet 2_126
+  - first:
+      213: 2808908272664189903
+    second: Dark grey spritesheet 2_127
+  - first:
+      213: -5546181276307433726
+    second: Dark grey spritesheet 2_128
+  - first:
+      213: -3236740519132341641
+    second: Dark grey spritesheet 2_129
+  - first:
+      213: -1973640286516298218
+    second: Dark grey spritesheet 2_130
+  - first:
+      213: 7176989877938545093
+    second: Dark grey spritesheet 2_131
+  - first:
+      213: 1591195357115176359
+    second: Dark grey spritesheet 2_132
+  - first:
+      213: -815406639416386266
+    second: Dark grey spritesheet 2_133
+  - first:
+      213: -888174466630702987
+    second: Dark grey spritesheet 2_134
+  - first:
+      213: -9018147920011068994
+    second: Dark grey spritesheet 2_135
+  - first:
+      213: -3366230206837847949
+    second: Dark grey spritesheet 2_136
+  - first:
+      213: -4682455412660739368
+    second: Dark grey spritesheet 2_137
+  - first:
+      213: -1879163336969646008
+    second: Dark grey spritesheet 2_138
+  - first:
+      213: 5144483354359985206
+    second: Dark grey spritesheet 2_139
+  - first:
+      213: 6256134271021107991
+    second: Dark grey spritesheet 2_140
+  - first:
+      213: -3231077094329232899
+    second: Dark grey spritesheet 2_141
+  - first:
+      213: -6339428184762048371
+    second: Dark grey spritesheet 2_142
+  - first:
+      213: 4290744737842961641
+    second: Dark grey spritesheet 2_143
+  - first:
+      213: -2225919424145026177
+    second: Dark grey spritesheet 2_144
+  - first:
+      213: 2662619799028506173
+    second: Dark grey spritesheet 2_145
+  - first:
+      213: 5161922617591590784
+    second: Dark grey spritesheet 2_146
+  - first:
+      213: 8425507237136737206
+    second: Dark grey spritesheet 2_147
+  - first:
+      213: -261848672818591907
+    second: Dark grey spritesheet 2_148
+  - first:
+      213: 4039181634442143258
+    second: Dark grey spritesheet 2_149
+  - first:
+      213: -2620833489298017599
+    second: Dark grey spritesheet 2_150
+  - first:
+      213: -4473852363102870815
+    second: Dark grey spritesheet 2_151
+  - first:
+      213: -1895403409996345272
+    second: Dark grey spritesheet 2_152
+  - first:
+      213: 9125095711056659121
+    second: Dark grey spritesheet 2_153
+  - first:
+      213: 7146571662960296521
+    second: Dark grey spritesheet 2_154
+  - first:
+      213: -3882505272410487328
+    second: Dark grey spritesheet 2_155
+  - first:
+      213: 5130820406383420969
+    second: Dark grey spritesheet 2_156
+  - first:
+      213: -7873678222037593604
+    second: Dark grey spritesheet 2_157
+  - first:
+      213: -4353119383088556370
+    second: Dark grey spritesheet 2_158
+  - first:
+      213: -22549437328293543
+    second: Dark grey spritesheet 2_159
+  - first:
+      213: -5977640091670166414
+    second: Dark grey spritesheet 2_160
+  - first:
+      213: 3792244860085105216
+    second: Dark grey spritesheet 2_161
+  - first:
+      213: 310784472762847172
+    second: Dark grey spritesheet 2_162
+  - first:
+      213: 7816273482111944501
+    second: Dark grey spritesheet 2_163
+  - first:
+      213: 8985218421036422894
+    second: Dark grey spritesheet 2_164
+  - first:
+      213: 4622468427819669615
+    second: Dark grey spritesheet 2_165
+  - first:
+      213: 1296637083151167683
+    second: Dark grey spritesheet 2_166
+  - first:
+      213: 2343657562171135320
+    second: Dark grey spritesheet 2_167
+  - first:
+      213: 4351763168057020318
+    second: Dark grey spritesheet 2_168
+  - first:
+      213: -8484232601566729174
+    second: Dark grey spritesheet 2_169
+  - first:
+      213: 3745841553281006039
+    second: Dark grey spritesheet 2_170
+  - first:
+      213: -5805174504382411350
+    second: Dark grey spritesheet 2_171
+  - first:
+      213: -417183467481201779
+    second: Dark grey spritesheet 2_172
+  - first:
+      213: 7869749624112292887
+    second: Dark grey spritesheet 2_173
+  - first:
+      213: 640252795206269923
+    second: Dark grey spritesheet 2_174
+  - first:
+      213: -3257287444634358393
+    second: Dark grey spritesheet 2_175
+  - first:
+      213: -7117982424464613404
+    second: Dark grey spritesheet 2_176
+  - first:
+      213: -7540348095962479902
+    second: Dark grey spritesheet 2_177
+  - first:
+      213: -8168951345874279618
+    second: Dark grey spritesheet 2_178
+  - first:
+      213: -7707584181569917213
+    second: Dark grey spritesheet 2_179
+  - first:
+      213: -1212104218379160176
+    second: Dark grey spritesheet 2_180
+  - first:
+      213: 3768279372704700647
+    second: Dark grey spritesheet 2_181
+  - first:
+      213: 4522071954177421610
+    second: Dark grey spritesheet 2_182
+  - first:
+      213: -3334308312654502127
+    second: Dark grey spritesheet 2_183
+  - first:
+      213: 2742938794500733701
+    second: Dark grey spritesheet 2_184
+  - first:
+      213: 6252609293407710776
+    second: Dark grey spritesheet 2_185
+  - first:
+      213: 583411365191891581
+    second: Dark grey spritesheet 2_186
+  - first:
+      213: -9214119622186516249
+    second: Dark grey spritesheet 2_187
+  - first:
+      213: 4973894762061291817
+    second: Dark grey spritesheet 2_188
+  - first:
+      213: 4071441158960886546
+    second: Dark grey spritesheet 2_189
+  - first:
+      213: -4688454001813780025
+    second: Dark grey spritesheet 2_190
+  - first:
+      213: 87970850660257953
+    second: Dark grey spritesheet 2_191
+  - first:
+      213: 1370884042764894338
+    second: Dark grey spritesheet 2_192
+  - first:
+      213: 6220099801754428415
+    second: Dark grey spritesheet 2_193
+  - first:
+      213: 4750886423682044740
+    second: Dark grey spritesheet 2_194
+  - first:
+      213: -5937305659317109371
+    second: Dark grey spritesheet 2_195
+  - first:
+      213: 3726664551089201120
+    second: Dark grey spritesheet 2_196
+  - first:
+      213: 2819076983210159874
+    second: Dark grey spritesheet 2_197
+  - first:
+      213: -3659192476549783987
+    second: Dark grey spritesheet 2_198
+  - first:
+      213: 1320508744522319003
+    second: Dark grey spritesheet 2_199
+  - first:
+      213: 9100229120927160271
+    second: Dark grey spritesheet 2_200
+  - first:
+      213: -3881427974492834632
+    second: Dark grey spritesheet 2_201
+  - first:
+      213: -5230001191834443507
+    second: Dark grey spritesheet 2_202
+  - first:
+      213: 1969960471460951205
+    second: Dark grey spritesheet 2_203
+  - first:
+      213: -4780131276159140650
+    second: Dark grey spritesheet 2_204
+  - first:
+      213: 6689142799922648027
+    second: Dark grey spritesheet 2_205
+  - first:
+      213: 8822622489142743026
+    second: Dark grey spritesheet 2_206
+  - first:
+      213: 3842078160998550640
+    second: Dark grey spritesheet 2_207
+  - first:
+      213: -3981221830364453329
+    second: Dark grey spritesheet 2_208
+  - first:
+      213: -4194430981799027749
+    second: Dark grey spritesheet 2_209
+  - first:
+      213: 8459409641810394477
+    second: Dark grey spritesheet 2_210
+  - first:
+      213: -3620842164826439410
+    second: Dark grey spritesheet 2_211
+  - first:
+      213: -3299830815121165445
+    second: Dark grey spritesheet 2_212
+  - first:
+      213: -1093202496751707737
+    second: Dark grey spritesheet 2_213
+  - first:
+      213: 4790927984521013549
+    second: Dark grey spritesheet 2_214
+  - first:
+      213: 4100998377497536992
+    second: Dark grey spritesheet 2_215
+  - first:
+      213: -5582142292206875802
+    second: Dark grey spritesheet 2_216
+  - first:
+      213: 5098142164748776225
+    second: Dark grey spritesheet 2_217
+  - first:
+      213: 7614972897843734917
+    second: Dark grey spritesheet 2_218
+  - first:
+      213: -1459793832450528231
+    second: Dark grey spritesheet 2_219
+  - first:
+      213: 3800552204518552408
+    second: Dark grey spritesheet 2_220
+  - first:
+      213: -2021891825171356881
+    second: Dark grey spritesheet 2_221
+  - first:
+      213: 7874743673708435852
+    second: Dark grey spritesheet 2_222
+  - first:
+      213: -8980428886012948040
+    second: Dark grey spritesheet 2_223
+  - first:
+      213: -770382398194399259
+    second: Dark grey spritesheet 2_224
+  - first:
+      213: 6885568214504499146
+    second: Dark grey spritesheet 2_225
+  - first:
+      213: -4561189549404053161
+    second: Dark grey spritesheet 2_226
+  - first:
+      213: 2940452322562017161
+    second: Dark grey spritesheet 2_227
+  - first:
+      213: 5105359368965371034
+    second: Dark grey spritesheet 2_228
+  - first:
+      213: 4605087709780821913
+    second: Dark grey spritesheet 2_229
+  - first:
+      213: 695242852051053227
+    second: Dark grey spritesheet 2_230
+  - first:
+      213: -1921817957783353234
+    second: Dark grey spritesheet 2_231
+  - first:
+      213: 5647812038882432645
+    second: Dark grey spritesheet 2_232
+  - first:
+      213: -2333466500380011951
+    second: Dark grey spritesheet 2_233
+  - first:
+      213: -5553854762263038568
+    second: Dark grey spritesheet 2_234
+  - first:
+      213: -1788723208124319177
+    second: Dark grey spritesheet 2_235
+  - first:
+      213: 2071843912834536270
+    second: Dark grey spritesheet 2_236
+  - first:
+      213: 7360251903479476327
+    second: Dark grey spritesheet 2_237
+  - first:
+      213: -2190567951691992718
+    second: Dark grey spritesheet 2_238
+  - first:
+      213: 4583721851823460356
+    second: Dark grey spritesheet 2_239
+  - first:
+      213: 5442535153530206365
+    second: Dark grey spritesheet 2_240
+  - first:
+      213: -2735069134566932102
+    second: Dark grey spritesheet 2_241
+  - first:
+      213: -7566498241538456875
+    second: Dark grey spritesheet 2_242
+  - first:
+      213: -8360910987943038068
+    second: Dark grey spritesheet 2_243
+  - first:
+      213: -7330003360012971185
+    second: Dark grey spritesheet 2_244
+  - first:
+      213: -2104883462963636204
+    second: Dark grey spritesheet 2_245
+  - first:
+      213: 1634401045977502467
+    second: Dark grey spritesheet 2_246
+  - first:
+      213: -6885381192413412341
+    second: Dark grey spritesheet 2_247
+  - first:
+      213: 661717916704897303
+    second: Dark grey spritesheet 2_248
+  - first:
+      213: -6556795778817262105
+    second: Dark grey spritesheet 2_249
+  - first:
+      213: 2534444439247548105
+    second: Dark grey spritesheet 2_250
+  - first:
+      213: 5520248546318853144
+    second: Dark grey spritesheet 2_251
+  - first:
+      213: -1371105552796611284
+    second: Dark grey spritesheet 2_252
+  - first:
+      213: -4595824555077567646
+    second: Dark grey spritesheet 2_253
+  - first:
+      213: -3473487993427355111
+    second: Dark grey spritesheet 2_254
+  - first:
+      213: 7118274781693430506
+    second: Dark grey spritesheet 2_255
+  - first:
+      213: -5931342199673483
+    second: Dark grey spritesheet 2_256
+  - first:
+      213: -1976996150786972847
+    second: Dark grey spritesheet 2_257
+  - first:
+      213: 5516212638514593590
+    second: Dark grey spritesheet 2_258
+  - first:
+      213: -2619255522347079524
+    second: Dark grey spritesheet 2_259
+  - first:
+      213: -5288263182027956095
+    second: Dark grey spritesheet 2_260
+  - first:
+      213: -3684846685288488823
+    second: Dark grey spritesheet 2_261
+  - first:
+      213: -1982878541941400939
+    second: Dark grey spritesheet 2_262
+  - first:
+      213: 633541494608725593
+    second: Dark grey spritesheet 2_263
+  - first:
+      213: 2043276264993345055
+    second: Dark grey spritesheet 2_264
+  - first:
+      213: -1804518522924349166
+    second: Dark grey spritesheet 2_265
+  - first:
+      213: 3475947797418834899
+    second: Dark grey spritesheet 2_266
+  - first:
+      213: 5499194983461176552
+    second: Dark grey spritesheet 2_267
+  - first:
+      213: 2671922598894740821
+    second: Dark grey spritesheet 2_268
+  - first:
+      213: -195348904062935222
+    second: Dark grey spritesheet 2_269
+  - first:
+      213: 7733863779454938576
+    second: Dark grey spritesheet 2_270
+  - first:
+      213: -5930592011549507047
+    second: Dark grey spritesheet 2_271
+  - first:
+      213: 4184409942399386357
+    second: Dark grey spritesheet 2_272
+  - first:
+      213: -4313524025172034012
+    second: Dark grey spritesheet 2_273
+  - first:
+      213: -5606694324799534627
+    second: Dark grey spritesheet 2_274
+  - first:
+      213: -613757716845090592
+    second: Dark grey spritesheet 2_275
+  - first:
+      213: 1169461660326889363
+    second: Dark grey spritesheet 2_276
+  - first:
+      213: 5811637358453592371
+    second: Dark grey spritesheet 2_277
+  - first:
+      213: -2272803104634094978
+    second: Dark grey spritesheet 2_278
+  - first:
+      213: 3781474522873486811
+    second: Dark grey spritesheet 2_279
+  - first:
+      213: 85017590676425381
+    second: Dark grey spritesheet 2_280
+  - first:
+      213: -7349091139203704016
+    second: Dark grey spritesheet 2_281
+  - first:
+      213: -3556292499276610759
+    second: Dark grey spritesheet 2_282
+  - first:
+      213: 3428928564863253017
+    second: Dark grey spritesheet 2_283
+  - first:
+      213: -2300650009066917600
+    second: Dark grey spritesheet 2_284
+  - first:
+      213: 281112769748154208
+    second: Dark grey spritesheet 2_285
+  - first:
+      213: -6160967777713714816
+    second: Dark grey spritesheet 2_286
+  - first:
+      213: 8176236106351177554
+    second: Dark grey spritesheet 2_287
+  - first:
+      213: -35442056147393703
+    second: Dark grey spritesheet 2_288
+  - first:
+      213: 8228517729972178833
+    second: Dark grey spritesheet 2_289
+  - first:
+      213: -4914108401907382377
+    second: Dark grey spritesheet 2_290
+  - first:
+      213: -6990318789728850447
+    second: Dark grey spritesheet 2_291
+  - first:
+      213: -6482763356188905293
+    second: Dark grey spritesheet 2_292
+  - first:
+      213: -5214450094230845692
+    second: Dark grey spritesheet 2_293
+  - first:
+      213: 7805959568360516921
+    second: Dark grey spritesheet 2_294
+  - first:
+      213: -4137470455034815074
+    second: Dark grey spritesheet 2_295
+  - first:
+      213: -5681263138935141667
+    second: Dark grey spritesheet 2_296
+  - first:
+      213: 7822390392868219061
+    second: Dark grey spritesheet 2_297
+  - first:
+      213: 3615847668998698639
+    second: Dark grey spritesheet 2_298
+  - first:
+      213: -3732858302787843557
+    second: Dark grey spritesheet 2_299
+  - first:
+      213: 7525626238223348066
+    second: Dark grey spritesheet 2_300
+  - first:
+      213: 1129715861847993860
+    second: Dark grey spritesheet 2_301
+  - first:
+      213: 8636905103193181971
+    second: Dark grey spritesheet 2_302
+  - first:
+      213: 6696647921629549779
+    second: Dark grey spritesheet 2_303
+  - first:
+      213: -3562322000595747967
+    second: Dark grey spritesheet 2_304
+  - first:
+      213: -121828164173609226
+    second: Dark grey spritesheet 2_305
+  - first:
+      213: 6422240530699769330
+    second: Dark grey spritesheet 2_306
+  - first:
+      213: 881061796425608022
+    second: Dark grey spritesheet 2_307
+  - first:
+      213: 3404452961838514266
+    second: Dark grey spritesheet 2_308
+  - first:
+      213: 6795759153074066832
+    second: Dark grey spritesheet 2_309
+  - first:
+      213: 1238415855451417139
+    second: Dark grey spritesheet 2_310
+  - first:
+      213: 5284238557003296907
+    second: Dark grey spritesheet 2_311
+  - first:
+      213: 139378329538578625
+    second: Dark grey spritesheet 2_312
+  - first:
+      213: 4209338843172018933
+    second: Dark grey spritesheet 2_313
+  - first:
+      213: 4365534755893483500
+    second: Dark grey spritesheet 2_314
+  - first:
+      213: -349266148256177326
+    second: Dark grey spritesheet 2_315
+  - first:
+      213: 3655021102190798893
+    second: Dark grey spritesheet 2_316
+  - first:
+      213: 8765070979410264279
+    second: Dark grey spritesheet 2_317
+  - first:
+      213: -3198221985335101058
+    second: Dark grey spritesheet 2_318
+  - first:
+      213: -9115197434998758813
+    second: Dark grey spritesheet 2_319
+  - first:
+      213: -218887312863254346
+    second: Dark grey spritesheet 2_320
+  - first:
+      213: 2540664410658703015
+    second: Dark grey spritesheet 2_321
+  - first:
+      213: 6521145130932126932
+    second: Dark grey spritesheet 2_322
+  - first:
+      213: -335780803095465803
+    second: Dark grey spritesheet 2_323
+  - first:
+      213: 4197949748721150179
+    second: Dark grey spritesheet 2_324
+  - first:
+      213: 8115599025830500595
+    second: Dark grey spritesheet 2_325
+  - first:
+      213: -7961279059380160347
+    second: Dark grey spritesheet 2_326
+  - first:
+      213: 6608849983483623244
+    second: Dark grey spritesheet 2_327
+  - first:
+      213: 7370955606022746387
+    second: Dark grey spritesheet 2_328
+  - first:
+      213: -2279015054318343734
+    second: Dark grey spritesheet 2_329
+  - first:
+      213: -4599014674250239974
+    second: Dark grey spritesheet 2_330
+  - first:
+      213: -2905565353711327335
+    second: Dark grey spritesheet 2_331
+  - first:
+      213: -6251045787453637487
+    second: Dark grey spritesheet 2_332
+  - first:
+      213: -6018429897521510508
+    second: Dark grey spritesheet 2_333
+  - first:
+      213: 1155266256643694538
+    second: Dark grey spritesheet 2_334
+  - first:
+      213: 5887817767783926996
+    second: Dark grey spritesheet 2_335
+  - first:
+      213: 2980357522080486855
+    second: Dark grey spritesheet 2_336
+  - first:
+      213: -7361368562565544262
+    second: Dark grey spritesheet 2_337
+  - first:
+      213: -6960153577308555302
+    second: Dark grey spritesheet 2_338
+  - first:
+      213: -6944718975695553360
+    second: Dark grey spritesheet 2_339
+  - first:
+      213: -7795743032042431092
+    second: Dark grey spritesheet 2_340
+  - first:
+      213: -2104541116211159490
+    second: Dark grey spritesheet 2_341
+  - first:
+      213: 2994464482988491573
+    second: Dark grey spritesheet 2_342
+  - first:
+      213: 521538891888146495
+    second: Dark grey spritesheet 2_343
+  - first:
+      213: 7137237698345586361
+    second: Dark grey spritesheet 2_344
+  - first:
+      213: 1722095718500120036
+    second: Dark grey spritesheet 2_345
+  - first:
+      213: 2829592326792532395
+    second: Dark grey spritesheet 2_346
+  - first:
+      213: 8555924720175437782
+    second: Dark grey spritesheet 2_347
+  - first:
+      213: -2077839960104041020
+    second: Dark grey spritesheet 2_348
+  - first:
+      213: 1357093731449261158
+    second: Dark grey spritesheet 2_349
+  - first:
+      213: 2136483045545963841
+    second: Dark grey spritesheet 2_350
+  - first:
+      213: 1372302330786639196
+    second: Dark grey spritesheet 2_351
+  - first:
+      213: -6584552838125991075
+    second: Dark grey spritesheet 2_352
+  - first:
+      213: 7284849625200401427
+    second: Dark grey spritesheet 2_353
+  - first:
+      213: 6215918432491289957
+    second: Dark grey spritesheet 2_354
+  - first:
+      213: -4641684289863196457
+    second: Dark grey spritesheet 2_355
+  - first:
+      213: 6486423944655094546
+    second: Dark grey spritesheet 2_356
+  - first:
+      213: -3531347262463094594
+    second: Dark grey spritesheet 2_357
+  - first:
+      213: 4858585554153900738
+    second: Dark grey spritesheet 2_358
+  - first:
+      213: -6115766177665702314
+    second: Dark grey spritesheet 2_359
+  - first:
+      213: 6192672345804020590
+    second: Dark grey spritesheet 2_360
+  - first:
+      213: 2751463462255905788
+    second: Dark grey spritesheet 2_361
+  - first:
+      213: -3834390351767573217
+    second: Dark grey spritesheet 2_362
+  - first:
+      213: 3412715095062266866
+    second: Dark grey spritesheet 2_363
+  - first:
+      213: -2239623700306365029
+    second: Dark grey spritesheet 2_364
+  - first:
+      213: -1715965381393671099
+    second: Dark grey spritesheet 2_365
+  - first:
+      213: -4071936635186572970
+    second: Dark grey spritesheet 2_366
+  - first:
+      213: 7185145593405684240
+    second: Dark grey spritesheet 2_367
+  - first:
+      213: 3964143532766901636
+    second: Dark grey spritesheet 2_368
+  - first:
+      213: 302933833209135425
+    second: Dark grey spritesheet 2_369
+  - first:
+      213: 8984886558493870627
+    second: Dark grey spritesheet 2_370
+  - first:
+      213: -5679065162795092904
+    second: Dark grey spritesheet 2_371
+  - first:
+      213: -6648115789692939797
+    second: Dark grey spritesheet 2_372
+  - first:
+      213: -1831568283275764752
+    second: Dark grey spritesheet 2_373
+  - first:
+      213: -8315740347303547522
+    second: Dark grey spritesheet 2_374
+  - first:
+      213: 9185769557682250010
+    second: Dark grey spritesheet 2_375
+  - first:
+      213: 4960178358686021838
+    second: Dark grey spritesheet 2_376
+  - first:
+      213: -4212523587908146061
+    second: Dark grey spritesheet 2_377
+  - first:
+      213: -5455810461379586290
+    second: Dark grey spritesheet 2_378
+  - first:
+      213: -5007006591500548720
+    second: Dark grey spritesheet 2_379
+  - first:
+      213: -7862021989702726216
+    second: Dark grey spritesheet 2_380
+  - first:
+      213: -122695344309889167
+    second: Dark grey spritesheet 2_381
+  - first:
+      213: -4705037170204401414
+    second: Dark grey spritesheet 2_382
+  - first:
+      213: -3949683282556130137
+    second: Dark grey spritesheet 2_383
+  - first:
+      213: -2435454470205065213
+    second: Dark grey spritesheet 2_384
+  - first:
+      213: -1174820260429849966
+    second: Dark grey spritesheet 2_385
+  - first:
+      213: 3962906127146707228
+    second: Dark grey spritesheet 2_386
+  - first:
+      213: -8522129532269440215
+    second: Dark grey spritesheet 2_387
+  - first:
+      213: 9032511923070586224
+    second: Dark grey spritesheet 2_388
+  - first:
+      213: 5705954485232558180
+    second: Dark grey spritesheet 2_389
+  - first:
+      213: -6762944025104666433
+    second: Dark grey spritesheet 2_390
+  - first:
+      213: 2715390824055000037
+    second: Dark grey spritesheet 2_391
+  - first:
+      213: 6359341488864035170
+    second: Dark grey spritesheet 2_392
+  - first:
+      213: 7543450728907700175
+    second: Dark grey spritesheet 2_393
+  - first:
+      213: -4348327448607118591
+    second: Dark grey spritesheet 2_394
+  - first:
+      213: -1184131145992889739
+    second: Dark grey spritesheet 2_395
+  - first:
+      213: 4633073445328985786
+    second: Dark grey spritesheet 2_396
+  - first:
+      213: -4695847795804570443
+    second: Dark grey spritesheet 2_397
+  - first:
+      213: 454931213581912512
+    second: Dark grey spritesheet 2_398
+  - first:
+      213: 4275109121298407598
+    second: Dark grey spritesheet 2_399
+  - first:
+      213: -38772769985403511
+    second: Dark grey spritesheet 2_400
+  - first:
+      213: 910127456992115116
+    second: Dark grey spritesheet 2_401
+  - first:
+      213: -8710752409707135320
+    second: Dark grey spritesheet 2_402
+  - first:
+      213: 3469614602296409217
+    second: Dark grey spritesheet 2_403
+  - first:
+      213: 5194155182737486239
+    second: Dark grey spritesheet 2_404
+  - first:
+      213: -8989764960336673069
+    second: Dark grey spritesheet 2_405
+  - first:
+      213: 7978025404344998761
+    second: Dark grey spritesheet 2_406
+  - first:
+      213: 5323521318616502871
+    second: Dark grey spritesheet 2_407
+  - first:
+      213: 1029076305224213281
+    second: Dark grey spritesheet 2_408
+  - first:
+      213: -4043430792361917095
+    second: Dark grey spritesheet 2_409
+  - first:
+      213: -2695950278878966684
+    second: Dark grey spritesheet 2_410
+  - first:
+      213: -89737260991999814
+    second: Dark grey spritesheet 2_411
+  - first:
+      213: 3727210936300282418
+    second: Dark grey spritesheet 2_412
+  - first:
+      213: 6917869901289207895
+    second: Dark grey spritesheet 2_413
+  - first:
+      213: 2637075630008413698
+    second: Dark grey spritesheet 2_414
+  - first:
+      213: -997635529594509919
+    second: Dark grey spritesheet 2_415
+  - first:
+      213: 6984678948432544006
+    second: Dark grey spritesheet 2_416
+  - first:
+      213: -7939993004396674024
+    second: Dark grey spritesheet 2_417
+  - first:
+      213: 7143042243083640643
+    second: Dark grey spritesheet 2_418
+  - first:
+      213: -9011958079918026086
+    second: Dark grey spritesheet 2_419
+  - first:
+      213: 8179840534175769558
+    second: Dark grey spritesheet 2_420
+  - first:
+      213: -7967383329897327417
+    second: Dark grey spritesheet 2_421
+  - first:
+      213: -2249043297398729983
+    second: Dark grey spritesheet 2_422
+  - first:
+      213: -4465326480659781972
+    second: Dark grey spritesheet 2_423
+  - first:
+      213: 7506613581244096417
+    second: Dark grey spritesheet 2_424
+  - first:
+      213: -4183051936829476985
+    second: Dark grey spritesheet 2_425
+  - first:
+      213: 6135129816765989700
+    second: Dark grey spritesheet 2_426
+  - first:
+      213: -318475771381924160
+    second: Dark grey spritesheet 2_427
+  - first:
+      213: 7251544658791718990
+    second: Dark grey spritesheet 2_428
+  - first:
+      213: 4356370271934592113
+    second: Dark grey spritesheet 2_429
+  - first:
+      213: 107932265807980055
+    second: Dark grey spritesheet 2_430
+  - first:
+      213: 3786708477568222081
+    second: Dark grey spritesheet 2_431
+  - first:
+      213: -2687127832769948571
+    second: Dark grey spritesheet 2_432
+  - first:
+      213: -6935395079812208155
+    second: Dark grey spritesheet 2_433
+  - first:
+      213: 4233479893209021505
+    second: Dark grey spritesheet 2_434
+  - first:
+      213: -8148272426079650598
+    second: Dark grey spritesheet 2_435
+  - first:
+      213: 5135771790816415666
+    second: Dark grey spritesheet 2_436
+  - first:
+      213: 8661947803839456281
+    second: Dark grey spritesheet 2_437
+  - first:
+      213: -2795679230507447762
+    second: Dark grey spritesheet 2_438
+  - first:
+      213: -6610023415511068665
+    second: Dark grey spritesheet 2_439
+  - first:
+      213: -8233369352062734200
+    second: Dark grey spritesheet 2_440
+  - first:
+      213: 3520473625135433020
+    second: Dark grey spritesheet 2_441
+  - first:
+      213: 2881192549177215202
+    second: Dark grey spritesheet 2_442
+  - first:
+      213: 239678652455390766
+    second: Dark grey spritesheet 2_443
+  - first:
+      213: 1837340778164149751
+    second: Dark grey spritesheet 2_444
+  - first:
+      213: -5083782158085739902
+    second: Dark grey spritesheet 2_445
+  - first:
+      213: 6561238598458976492
+    second: Dark grey spritesheet 2_446
+  - first:
+      213: -2453224062847176244
+    second: Dark grey spritesheet 2_447
+  - first:
+      213: -6736993415437902914
+    second: Dark grey spritesheet 2_448
+  - first:
+      213: -627623537284808647
+    second: Dark grey spritesheet 2_449
+  - first:
+      213: -3252418091860594563
+    second: Dark grey spritesheet 2_450
+  - first:
+      213: -6589492934827533863
+    second: Dark grey spritesheet 2_451
+  - first:
+      213: 6222530605507096563
+    second: Dark grey spritesheet 2_452
+  - first:
+      213: -8277031365509475164
+    second: Dark grey spritesheet 2_453
+  - first:
+      213: 4204149229625455196
+    second: Dark grey spritesheet 2_454
+  - first:
+      213: -1004736727010227218
+    second: Dark grey spritesheet 2_455
+  - first:
+      213: 5538231898481885419
+    second: Dark grey spritesheet 2_456
+  - first:
+      213: 549152196093899559
+    second: Dark grey spritesheet 2_457
+  - first:
+      213: 7939973330541225621
+    second: Dark grey spritesheet 2_458
+  - first:
+      213: 4819108280216414155
+    second: Dark grey spritesheet 2_459
+  - first:
+      213: 7229811515159879385
+    second: Dark grey spritesheet 2_460
+  - first:
+      213: 1114347907844338849
+    second: Dark grey spritesheet 2_461
+  - first:
+      213: 114276791223195794
+    second: Dark grey spritesheet 2_462
+  - first:
+      213: 2489049355546885351
+    second: Dark grey spritesheet 2_463
+  - first:
+      213: 2342705021131090452
+    second: Dark grey spritesheet 2_464
+  - first:
+      213: 2879751952514875081
+    second: Dark grey spritesheet 2_465
+  - first:
+      213: -4877385473893514873
+    second: Dark grey spritesheet 2_466
+  - first:
+      213: 5218866421097980573
+    second: Dark grey spritesheet 2_467
+  - first:
+      213: -2261048045570062519
+    second: Dark grey spritesheet 2_468
+  - first:
+      213: -1952211293805094060
+    second: Dark grey spritesheet 2_469
+  - first:
+      213: -6390789112522103925
+    second: Dark grey spritesheet 2_470
+  - first:
+      213: 8679780822564842693
+    second: Dark grey spritesheet 2_471
+  - first:
+      213: -6495502276286224384
+    second: Dark grey spritesheet 2_472
+  - first:
+      213: -6798401377315408419
+    second: Dark grey spritesheet 2_473
+  - first:
+      213: -2339521416928597273
+    second: Dark grey spritesheet 2_474
+  - first:
+      213: -900275783552040177
+    second: Dark grey spritesheet 2_475
+  - first:
+      213: 4170515267691545009
+    second: Dark grey spritesheet 2_476
+  - first:
+      213: 2688703011686245133
+    second: Dark grey spritesheet 2_477
+  - first:
+      213: -79368721435581687
+    second: Dark grey spritesheet 2_478
+  - first:
+      213: -4248445800257910437
+    second: Dark grey spritesheet 2_479
+  - first:
+      213: 6476428650689049520
+    second: Dark grey spritesheet 2_480
+  - first:
+      213: -6179832546655134374
+    second: Dark grey spritesheet 2_481
+  - first:
+      213: 212865638435088259
+    second: Dark grey spritesheet 2_482
+  - first:
+      213: 4073868800437114873
+    second: Dark grey spritesheet 2_483
+  - first:
+      213: 8714057794075627878
+    second: Dark grey spritesheet 2_484
+  - first:
+      213: 6516693593440304607
+    second: Dark grey spritesheet 2_485
+  - first:
+      213: 4964906064838038926
+    second: Dark grey spritesheet 2_486
+  - first:
+      213: -4499431969093480988
+    second: Dark grey spritesheet 2_487
+  - first:
+      213: 965775677559310068
+    second: Dark grey spritesheet 2_488
+  - first:
+      213: -1578250809743755401
+    second: Dark grey spritesheet 2_489
+  - first:
+      213: -1087695223739887400
+    second: Dark grey spritesheet 2_490
+  - first:
+      213: -3568582440638501977
+    second: Dark grey spritesheet 2_491
+  - first:
+      213: -3723398649809875480
+    second: Dark grey spritesheet 2_492
+  - first:
+      213: -1578126572279950818
+    second: Dark grey spritesheet 2_493
+  - first:
+      213: 4896150025942834609
+    second: Dark grey spritesheet 2_494
+  - first:
+      213: 3248004281251475135
+    second: Dark grey spritesheet 2_495
+  - first:
+      213: 1112894536895755529
+    second: Dark grey spritesheet 2_496
+  - first:
+      213: 7473235765454445573
+    second: Dark grey spritesheet 2_497
+  - first:
+      213: -2261849600962923377
+    second: Dark grey spritesheet 2_498
+  - first:
+      213: 987715854983647712
+    second: Dark grey spritesheet 2_499
+  - first:
+      213: -2658685649653177438
+    second: Dark grey spritesheet 2_500
+  - first:
+      213: -6695095649247249410
+    second: Dark grey spritesheet 2_501
+  - first:
+      213: 8876677316606619751
+    second: Dark grey spritesheet 2_502
+  - first:
+      213: -4893001718828476161
+    second: Dark grey spritesheet 2_503
+  - first:
+      213: -4825425978932043635
+    second: Dark grey spritesheet 2_504
+  - first:
+      213: -7899433481387737087
+    second: Dark grey spritesheet 2_505
+  - first:
+      213: -6292590852414316438
+    second: Dark grey spritesheet 2_506
+  - first:
+      213: -1197988035807872349
+    second: Dark grey spritesheet 2_507
+  - first:
+      213: 4856213834558389660
+    second: Dark grey spritesheet 2_508
+  - first:
+      213: -2865296090246441499
+    second: Dark grey spritesheet 2_509
+  - first:
+      213: -4263137007033342883
+    second: Dark grey spritesheet 2_510
+  - first:
+      213: -7733577231330345818
+    second: Dark grey spritesheet 2_511
+  - first:
+      213: 1574158438641304220
+    second: Dark grey spritesheet 2_512
+  - first:
+      213: -7901568299589839665
+    second: Dark grey spritesheet 2_513
+  - first:
+      213: 7382802370794977570
+    second: Dark grey spritesheet 2_514
+  - first:
+      213: 6058389300054459948
+    second: Dark grey spritesheet 2_515
+  - first:
+      213: -4690787443111849479
+    second: Dark grey spritesheet 2_516
+  - first:
+      213: -734275185236678488
+    second: Dark grey spritesheet 2_517
+  - first:
+      213: -3882894878705797708
+    second: Dark grey spritesheet 2_518
+  - first:
+      213: -3703648696507894822
+    second: Dark grey spritesheet 2_519
+  - first:
+      213: 366603439819546500
+    second: Dark grey spritesheet 2_520
+  - first:
+      213: -3229023788386636254
+    second: Dark grey spritesheet 2_521
+  - first:
+      213: -5222689148174430719
+    second: Dark grey spritesheet 2_522
+  - first:
+      213: -5043687667572320284
+    second: Dark grey spritesheet 2_523
+  - first:
+      213: 1376928334272170078
+    second: Dark grey spritesheet 2_524
+  - first:
+      213: -7490931895862810527
+    second: Dark grey spritesheet 2_525
+  - first:
+      213: 5359996254024709725
+    second: Dark grey spritesheet 2_526
+  - first:
+      213: -5222191141280688271
+    second: Dark grey spritesheet 2_527
+  - first:
+      213: -6076610313883648977
+    second: Dark grey spritesheet 2_528
+  - first:
+      213: -1745639599264887962
+    second: Dark grey spritesheet 2_529
+  - first:
+      213: 845614033425234619
+    second: Dark grey spritesheet 2_530
+  - first:
+      213: 9191082409767236434
+    second: Dark grey spritesheet 2_531
+  - first:
+      213: 3824481261784867732
+    second: Dark grey spritesheet 2_532
+  - first:
+      213: 7999879234886278350
+    second: Dark grey spritesheet 2_533
+  - first:
+      213: 601772734558421818
+    second: Dark grey spritesheet 2_534
+  - first:
+      213: 5476430069051128892
+    second: Dark grey spritesheet 2_535
+  - first:
+      213: -8084499632923239474
+    second: Dark grey spritesheet 2_536
+  - first:
+      213: 4386708369010043908
+    second: Dark grey spritesheet 2_537
+  - first:
+      213: -471298215245735462
+    second: Dark grey spritesheet 2_538
+  - first:
+      213: 6039772678376955759
+    second: Dark grey spritesheet 2_539
+  - first:
+      213: 798087570248938405
+    second: Dark grey spritesheet 2_540
+  - first:
+      213: 2057817545639939895
+    second: Dark grey spritesheet 2_541
+  - first:
+      213: 464382243704044448
+    second: Dark grey spritesheet 2_542
+  - first:
+      213: -7804118700729865010
+    second: Dark grey spritesheet 2_543
+  - first:
+      213: 902277133907679411
+    second: Dark grey spritesheet 2_544
+  - first:
+      213: 521452902725254688
+    second: Dark grey spritesheet 2_545
+  - first:
+      213: -3389957287943890756
+    second: Dark grey spritesheet 2_546
+  - first:
+      213: -8405777196001073411
+    second: Dark grey spritesheet 2_547
+  - first:
+      213: 1170315919713612079
+    second: Dark grey spritesheet 2_548
+  - first:
+      213: 1412302467963359075
+    second: Dark grey spritesheet 2_549
+  - first:
+      213: 4751693810571151244
+    second: Dark grey spritesheet 2_550
+  - first:
+      213: 6092470896426634164
+    second: Dark grey spritesheet 2_551
+  - first:
+      213: -5187279639756915372
+    second: Dark grey spritesheet 2_552
+  - first:
+      213: 950961650885310434
+    second: Dark grey spritesheet 2_553
+  - first:
+      213: -4861382348927820459
+    second: Dark grey spritesheet 2_554
+  - first:
+      213: -531114394350894938
+    second: Dark grey spritesheet 2_555
+  - first:
+      213: 3839062404761947972
+    second: Dark grey spritesheet 2_556
+  - first:
+      213: 6324933509455170144
+    second: Dark grey spritesheet 2_557
+  - first:
+      213: -5515175122297498912
+    second: Dark grey spritesheet 2_558
+  - first:
+      213: 6990609299475820870
+    second: Dark grey spritesheet 2_559
+  - first:
+      213: 2594529421050928893
+    second: Dark grey spritesheet 2_560
+  - first:
+      213: 8238091970589752922
+    second: Dark grey spritesheet 2_561
+  - first:
+      213: -7020461976716669324
+    second: Dark grey spritesheet 2_562
+  - first:
+      213: 1436298543397272420
+    second: Dark grey spritesheet 2_563
+  - first:
+      213: -3175793610574853346
+    second: Dark grey spritesheet 2_564
+  - first:
+      213: 2147092780217381766
+    second: Dark grey spritesheet 2_565
+  - first:
+      213: 1845669328860804477
+    second: Dark grey spritesheet 2_566
+  - first:
+      213: -2177530414973811763
+    second: Dark grey spritesheet 2_567
+  - first:
+      213: -5368371153596057315
+    second: Dark grey spritesheet 2_568
+  - first:
+      213: 6102184529437018433
+    second: Dark grey spritesheet 2_569
+  - first:
+      213: -5123015020568543798
+    second: Dark grey spritesheet 2_570
+  - first:
+      213: -5108010514970307913
+    second: Dark grey spritesheet 2_571
+  - first:
+      213: -1144079464038758189
+    second: Dark grey spritesheet 2_572
+  - first:
+      213: 5650358446178431717
+    second: Dark grey spritesheet 2_573
+  - first:
+      213: -2942050426562067111
+    second: Dark grey spritesheet 2_574
+  - first:
+      213: 7579130485348118548
+    second: Dark grey spritesheet 2_575
+  - first:
+      213: 7910460022721698211
+    second: Dark grey spritesheet 2_576
+  - first:
+      213: 5507864199806740312
+    second: Dark grey spritesheet 2_577
+  - first:
+      213: -723371940820275889
+    second: Dark grey spritesheet 2_578
+  - first:
+      213: -1692539396435975392
+    second: Dark grey spritesheet 2_579
+  - first:
+      213: -5722302728147525968
+    second: Dark grey spritesheet 2_580
+  - first:
+      213: -5079164397466891217
+    second: Dark grey spritesheet 2_581
+  - first:
+      213: -1348076946422033985
+    second: Dark grey spritesheet 2_582
+  - first:
+      213: 1136263500815918764
+    second: Dark grey spritesheet 2_583
+  - first:
+      213: -7369095387588858431
+    second: Dark grey spritesheet 2_584
+  - first:
+      213: 6168980529866092048
+    second: Dark grey spritesheet 2_585
+  - first:
+      213: 1521470134757239413
+    second: Dark grey spritesheet 2_586
+  - first:
+      213: 3529657132860329223
+    second: Dark grey spritesheet 2_587
+  - first:
+      213: -8524844695327046850
+    second: Dark grey spritesheet 2_588
+  - first:
+      213: -6220165588899557328
+    second: Dark grey spritesheet 2_589
+  - first:
+      213: -3390169019155333954
+    second: Dark grey spritesheet 2_590
+  - first:
+      213: -6025249159302522551
+    second: Dark grey spritesheet 2_591
+  - first:
+      213: -745529358035608555
+    second: Dark grey spritesheet 2_592
+  - first:
+      213: 4797276538578400336
+    second: Dark grey spritesheet 2_593
+  - first:
+      213: -6756447325503746599
+    second: Dark grey spritesheet 2_594
+  - first:
+      213: 6578233465096806420
+    second: Dark grey spritesheet 2_595
+  - first:
+      213: 3187244651080216395
+    second: Dark grey spritesheet 2_596
+  - first:
+      213: 8555615399633712651
+    second: Dark grey spritesheet 2_597
+  - first:
+      213: 8415998396250102253
+    second: Dark grey spritesheet 2_598
+  - first:
+      213: 3516329087387616626
+    second: Dark grey spritesheet 2_599
+  - first:
+      213: 4180745155799387305
+    second: Dark grey spritesheet 2_600
+  - first:
+      213: -2310535706473700931
+    second: Dark grey spritesheet 2_601
+  - first:
+      213: -5058974560310528718
+    second: Dark grey spritesheet 2_602
+  - first:
+      213: -4334120372578469802
+    second: Dark grey spritesheet 2_603
+  - first:
+      213: -4363618315981680787
+    second: Dark grey spritesheet 2_604
+  - first:
+      213: 5355490777395233811
+    second: Dark grey spritesheet 2_605
+  - first:
+      213: 8103545690491686139
+    second: Dark grey spritesheet 2_606
+  - first:
+      213: 6584110123352667942
+    second: Dark grey spritesheet 2_607
+  - first:
+      213: 6508412791221317551
+    second: Dark grey spritesheet 2_608
+  - first:
+      213: -4712405158297477915
+    second: Dark grey spritesheet 2_609
+  - first:
+      213: -4743074373856971887
+    second: Dark grey spritesheet 2_610
+  - first:
+      213: 2105343964082723037
+    second: Dark grey spritesheet 2_611
+  - first:
+      213: -4418893553945547300
+    second: Dark grey spritesheet 2_612
+  - first:
+      213: -2879860460855779303
+    second: Dark grey spritesheet 2_613
+  - first:
+      213: 8965421937613857505
+    second: Dark grey spritesheet 2_614
+  - first:
+      213: -115894845377289516
+    second: Dark grey spritesheet 2_615
+  - first:
+      213: 714629462876979076
+    second: Dark grey spritesheet 2_616
+  - first:
+      213: 5687605310220934949
+    second: Dark grey spritesheet 2_617
+  - first:
+      213: 5542517902075645010
+    second: Dark grey spritesheet 2_618
+  - first:
+      213: -3385279557535171344
+    second: Dark grey spritesheet 2_619
+  - first:
+      213: -2911487337976554366
+    second: Dark grey spritesheet 2_620
+  - first:
+      213: -6673886495725127472
+    second: Dark grey spritesheet 2_621
+  - first:
+      213: -8138569243690322871
+    second: Dark grey spritesheet 2_622
+  - first:
+      213: 5157925985606856138
+    second: Dark grey spritesheet 2_623
+  - first:
+      213: 5277537601815132984
+    second: Dark grey spritesheet 2_624
+  - first:
+      213: -1559856921362831875
+    second: Dark grey spritesheet 2_625
+  - first:
+      213: 2581032815537572891
+    second: Dark grey spritesheet 2_626
+  - first:
+      213: 3937010272259223480
+    second: Dark grey spritesheet 2_627
+  - first:
+      213: 1117776217417774392
+    second: Dark grey spritesheet 2_628
+  - first:
+      213: 8613608780454520771
+    second: Dark grey spritesheet 2_629
+  - first:
+      213: -419058515132257002
+    second: Dark grey spritesheet 2_630
+  - first:
+      213: -6332693809185518030
+    second: Dark grey spritesheet 2_631
+  - first:
+      213: 6026374380702515710
+    second: Dark grey spritesheet 2_632
+  - first:
+      213: 7592576106515566502
+    second: Dark grey spritesheet 2_633
+  - first:
+      213: -3656959074719952859
+    second: Dark grey spritesheet 2_634
+  - first:
+      213: -8199778726647623664
+    second: Dark grey spritesheet 2_635
+  - first:
+      213: -8166508726012004026
+    second: Dark grey spritesheet 2_636
+  - first:
+      213: -2705821885837597628
+    second: Dark grey spritesheet 2_637
+  - first:
+      213: -2927876491607951148
+    second: Dark grey spritesheet 2_638
+  - first:
+      213: -6964130071138533150
+    second: Dark grey spritesheet 2_639
+  - first:
+      213: 3539840825162605688
+    second: Dark grey spritesheet 2_640
+  - first:
+      213: -7224247115226733016
+    second: Dark grey spritesheet 2_641
+  - first:
+      213: 2517824347344337040
+    second: Dark grey spritesheet 2_642
+  - first:
+      213: -1566619875185271250
+    second: Dark grey spritesheet 2_643
+  - first:
+      213: -3713371080315976094
+    second: Dark grey spritesheet 2_644
+  - first:
+      213: 1341452695861779676
+    second: Dark grey spritesheet 2_645
+  - first:
+      213: -6852366845075188122
+    second: Dark grey spritesheet 2_646
+  - first:
+      213: 6962236757631155511
+    second: Dark grey spritesheet 2_647
+  - first:
+      213: 7583604647189927713
+    second: Dark grey spritesheet 2_648
+  - first:
+      213: 1800982954974839096
+    second: Dark grey spritesheet 2_649
+  - first:
+      213: 6790966864828818100
+    second: Dark grey spritesheet 2_650
+  - first:
+      213: 5091830303530363589
+    second: Dark grey spritesheet 2_651
+  - first:
+      213: -5135818040920543150
+    second: Dark grey spritesheet 2_652
+  - first:
+      213: -4873023488269520305
+    second: Dark grey spritesheet 2_653
+  - first:
+      213: 8929547872104210953
+    second: Dark grey spritesheet 2_654
+  - first:
+      213: 6094193288805964206
+    second: Dark grey spritesheet 2_655
+  - first:
+      213: 5452670470346014665
+    second: Dark grey spritesheet 2_656
+  - first:
+      213: -4753064756440445332
+    second: Dark grey spritesheet 2_657
+  - first:
+      213: -1473784109342217818
+    second: Dark grey spritesheet 2_658
+  - first:
+      213: 6799652502853226289
+    second: Dark grey spritesheet 2_659
+  - first:
+      213: -3815262674766599331
+    second: Dark grey spritesheet 2_660
+  - first:
+      213: -8995971648521031674
+    second: Dark grey spritesheet 2_661
+  - first:
+      213: -8423036312509900
+    second: Dark grey spritesheet 2_662
+  - first:
+      213: -1331853160919159499
+    second: Dark grey spritesheet 2_663
+  - first:
+      213: -7472062583320015837
+    second: Dark grey spritesheet 2_664
+  - first:
+      213: 6348414680581317677
+    second: Dark grey spritesheet 2_665
+  - first:
+      213: -8758063571930865185
+    second: Dark grey spritesheet 2_666
+  - first:
+      213: -3432791075209639391
+    second: Dark grey spritesheet 2_667
+  - first:
+      213: 4908734412147429190
+    second: Dark grey spritesheet 2_668
+  - first:
+      213: -4420964879213012551
+    second: Dark grey spritesheet 2_669
+  - first:
+      213: -7884683969771428982
+    second: Dark grey spritesheet 2_670
+  - first:
+      213: 594814963449679347
+    second: Dark grey spritesheet 2_671
+  - first:
+      213: 8113240967257349550
+    second: Dark grey spritesheet 2_672
+  - first:
+      213: -1369420886779804907
+    second: Dark grey spritesheet 2_673
+  - first:
+      213: 5213973672680766315
+    second: Dark grey spritesheet 2_674
+  - first:
+      213: 2107936496222956585
+    second: Dark grey spritesheet 2_675
+  - first:
+      213: -8389998202189167495
+    second: Dark grey spritesheet 2_676
+  - first:
+      213: -5256101047719975844
+    second: Dark grey spritesheet 2_677
+  - first:
+      213: 8614950528731924111
+    second: Dark grey spritesheet 2_678
+  - first:
+      213: 3431415635425767390
+    second: Dark grey spritesheet 2_679
+  - first:
+      213: 3217849441118779345
+    second: Dark grey spritesheet 2_680
+  - first:
+      213: -7981125474504217293
+    second: Dark grey spritesheet 2_681
+  - first:
+      213: 363281325804107439
+    second: Dark grey spritesheet 2_682
+  - first:
+      213: 1789937189667162245
+    second: Dark grey spritesheet 2_683
+  - first:
+      213: 7087089930002722399
+    second: Dark grey spritesheet 2_684
+  - first:
+      213: -7106104863037684619
+    second: Dark grey spritesheet 2_685
+  - first:
+      213: -9002399111546955869
+    second: Dark grey spritesheet 2_686
+  - first:
+      213: -4813276068875393518
+    second: Dark grey spritesheet 2_687
+  - first:
+      213: 7079393444067313874
+    second: Dark grey spritesheet 2_688
+  - first:
+      213: 2560740309102331320
+    second: Dark grey spritesheet 2_689
+  - first:
+      213: -284240233262414328
+    second: Dark grey spritesheet 2_690
+  - first:
+      213: -4786557215496332003
+    second: Dark grey spritesheet 2_691
+  - first:
+      213: 5013009969490878834
+    second: Dark grey spritesheet 2_692
+  - first:
+      213: -2022685831345472614
+    second: Dark grey spritesheet 2_693
+  - first:
+      213: -7405403714789813071
+    second: Dark grey spritesheet 2_694
+  - first:
+      213: -3264662727122936385
+    second: Dark grey spritesheet 2_695
+  - first:
+      213: -3368874490628947733
+    second: Dark grey spritesheet 2_696
+  - first:
+      213: -4556848223608921906
+    second: Dark grey spritesheet 2_697
+  - first:
+      213: 2788887500094903216
+    second: Dark grey spritesheet 2_698
+  - first:
+      213: -1642995308370816069
+    second: Dark grey spritesheet 2_699
+  - first:
+      213: -1285374464945458245
+    second: Dark grey spritesheet 2_700
+  - first:
+      213: -5183158387153081151
+    second: Dark grey spritesheet 2_701
+  - first:
+      213: -6916440794115742599
+    second: Dark grey spritesheet 2_702
+  - first:
+      213: -806108152194358009
+    second: Dark grey spritesheet 2_703
+  - first:
+      213: 531185728053559685
+    second: Dark grey spritesheet 2_704
+  - first:
+      213: -8028982003456391290
+    second: Dark grey spritesheet 2_705
+  - first:
+      213: -2161262519181375056
+    second: Dark grey spritesheet 2_706
+  - first:
+      213: -1968872203070731512
+    second: Dark grey spritesheet 2_707
+  - first:
+      213: 449361981453200960
+    second: Dark grey spritesheet 2_708
+  - first:
+      213: -773266020762604697
+    second: Dark grey spritesheet 2_709
+  - first:
+      213: -2111302628328635453
+    second: Dark grey spritesheet 2_710
+  - first:
+      213: -5195817615007965479
+    second: Dark grey spritesheet 2_711
+  - first:
+      213: 3207040182735417967
+    second: Dark grey spritesheet 2_712
+  - first:
+      213: 1233983368973250729
+    second: Dark grey spritesheet 2_713
+  - first:
+      213: 965561160396249701
+    second: Dark grey spritesheet 2_714
+  - first:
+      213: 5510341581343675050
+    second: Dark grey spritesheet 2_715
+  - first:
+      213: -4574683132775748936
+    second: Dark grey spritesheet 2_716
+  - first:
+      213: -1921535528436576525
+    second: Dark grey spritesheet 2_717
+  - first:
+      213: 904947882435210061
+    second: Dark grey spritesheet 2_718
+  - first:
+      213: -552316276428001480
+    second: Dark grey spritesheet 2_719
+  - first:
+      213: -7603075694636046211
+    second: Dark grey spritesheet 2_720
+  - first:
+      213: 959854167972220177
+    second: Dark grey spritesheet 2_721
+  - first:
+      213: -8580319196725324186
+    second: Dark grey spritesheet 2_722
+  - first:
+      213: -4275318574845243999
+    second: Dark grey spritesheet 2_723
+  - first:
+      213: -1882178281039139868
+    second: Dark grey spritesheet 2_724
+  - first:
+      213: 4825941088162844707
+    second: Dark grey spritesheet 2_725
+  - first:
+      213: 5557844169020505349
+    second: Dark grey spritesheet 2_726
+  - first:
+      213: -6009586449943777297
+    second: Dark grey spritesheet 2_727
+  - first:
+      213: 5235164996091585126
+    second: Dark grey spritesheet 2_728
+  - first:
+      213: 8112652234199146306
+    second: Dark grey spritesheet 2_729
+  - first:
+      213: 4851229790071525986
+    second: Dark grey spritesheet 2_730
+  - first:
+      213: -3484518485752891528
+    second: Dark grey spritesheet 2_731
+  - first:
+      213: 3510809995793666176
+    second: Dark grey spritesheet 2_732
+  - first:
+      213: 7072105694291508718
+    second: Dark grey spritesheet 2_733
+  - first:
+      213: 7992377882544240757
+    second: Dark grey spritesheet 2_734
+  - first:
+      213: -730578805198221581
+    second: Dark grey spritesheet 2_735
+  - first:
+      213: 2871947098989030743
+    second: Dark grey spritesheet 2_736
+  - first:
+      213: 2233832999790145754
+    second: Dark grey spritesheet 2_737
+  - first:
+      213: -2015407503401579584
+    second: Dark grey spritesheet 2_738
+  - first:
+      213: -439395071430537513
+    second: Dark grey spritesheet 2_739
+  - first:
+      213: 6564290139817965131
+    second: Dark grey spritesheet 2_740
+  - first:
+      213: 7517505032495320335
+    second: Dark grey spritesheet 2_741
+  - first:
+      213: -3453779347483310175
+    second: Dark grey spritesheet 2_742
+  - first:
+      213: -3595841099312958775
+    second: Dark grey spritesheet 2_743
+  - first:
+      213: -1297369541671847555
+    second: Dark grey spritesheet 2_744
+  - first:
+      213: -5219818824612875109
+    second: Dark grey spritesheet 2_745
+  - first:
+      213: 4266912573626386503
+    second: Dark grey spritesheet 2_746
+  - first:
+      213: 6511093854002021680
+    second: Dark grey spritesheet 2_747
+  - first:
+      213: -1664486704308589256
+    second: Dark grey spritesheet 2_748
+  - first:
+      213: -5132500562966677786
+    second: Dark grey spritesheet 2_749
+  - first:
+      213: 6733982310894280300
+    second: Dark grey spritesheet 2_750
+  - first:
+      213: -7537994611925790819
+    second: Dark grey spritesheet 2_751
+  - first:
+      213: -2981120841603179273
+    second: Dark grey spritesheet 2_752
+  - first:
+      213: -6239791875031332136
+    second: Dark grey spritesheet 2_753
+  - first:
+      213: -7600087566000382301
+    second: Dark grey spritesheet 2_754
+  - first:
+      213: 6157121444075433022
+    second: Dark grey spritesheet 2_755
+  - first:
+      213: -9843878539015887
+    second: Dark grey spritesheet 2_756
+  - first:
+      213: 2550694507247020484
+    second: Dark grey spritesheet 2_757
+  - first:
+      213: -1735879224582622460
+    second: Dark grey spritesheet 2_758
+  - first:
+      213: 2333667013172930198
+    second: Dark grey spritesheet 2_759
+  - first:
+      213: -172248271702859721
+    second: Dark grey spritesheet 2_760
+  - first:
+      213: 6523496476519448829
+    second: Dark grey spritesheet 2_761
+  - first:
+      213: -7696211957429191245
+    second: Dark grey spritesheet 2_762
+  - first:
+      213: 9124185123857572739
+    second: Dark grey spritesheet 2_763
+  - first:
+      213: -4027345527476917359
+    second: Dark grey spritesheet 2_764
+  - first:
+      213: -5788764292317590645
+    second: Dark grey spritesheet 2_765
+  - first:
+      213: 3970022486225036153
+    second: Dark grey spritesheet 2_766
+  - first:
+      213: 196303179895907448
+    second: Dark grey spritesheet 2_767
+  - first:
+      213: 8098363892639241675
+    second: Dark grey spritesheet 2_768
+  - first:
+      213: 2976940680947608523
+    second: Dark grey spritesheet 2_769
+  - first:
+      213: -1508907187682793394
+    second: Dark grey spritesheet 2_770
+  - first:
+      213: -6370763594446642407
+    second: Dark grey spritesheet 2_771
+  - first:
+      213: -269723785696599754
+    second: Dark grey spritesheet 2_772
+  - first:
+      213: 3260956252024922064
+    second: Dark grey spritesheet 2_773
+  - first:
+      213: -5591363289673416607
+    second: Dark grey spritesheet 2_774
+  - first:
+      213: 3430234742564746838
+    second: Dark grey spritesheet 2_775
+  - first:
+      213: -6679524884236337219
+    second: Dark grey spritesheet 2_776
+  - first:
+      213: 7235769804468869749
+    second: Dark grey spritesheet 2_777
+  - first:
+      213: -8051637153804321669
+    second: Dark grey spritesheet 2_778
+  - first:
+      213: 8309909856490971386
+    second: Dark grey spritesheet 2_779
+  - first:
+      213: 2877872201894674227
+    second: Dark grey spritesheet 2_780
+  - first:
+      213: 2638946694919159643
+    second: Dark grey spritesheet 2_781
+  - first:
+      213: 5184360661396771837
+    second: Dark grey spritesheet 2_782
+  - first:
+      213: -1215789579554056986
+    second: Dark grey spritesheet 2_783
+  - first:
+      213: -217175803084365355
+    second: Dark grey spritesheet 2_784
+  - first:
+      213: -2346925933093128220
+    second: Dark grey spritesheet 2_785
+  - first:
+      213: 5611581409828411678
+    second: Dark grey spritesheet 2_786
+  - first:
+      213: -1336058824780070414
+    second: Dark grey spritesheet 2_787
+  - first:
+      213: 3780539022375503547
+    second: Dark grey spritesheet 2_788
+  - first:
+      213: 6882740359032020196
+    second: Dark grey spritesheet 2_789
+  - first:
+      213: 6808920015396623509
+    second: Dark grey spritesheet 2_790
+  - first:
+      213: -6256150051890251835
+    second: Dark grey spritesheet 2_791
+  - first:
+      213: -1333812561538334590
+    second: Dark grey spritesheet 2_792
+  - first:
+      213: 2683042663667750125
+    second: Dark grey spritesheet 2_793
+  - first:
+      213: -4850198712414640586
+    second: Dark grey spritesheet 2_794
+  - first:
+      213: -5538103842180071734
+    second: Dark grey spritesheet 2_795
+  - first:
+      213: 6505627920912888971
+    second: Dark grey spritesheet 2_796
+  - first:
+      213: 7902053347046030706
+    second: Dark grey spritesheet 2_797
+  - first:
+      213: 3754788983928139036
+    second: Dark grey spritesheet 2_798
+  - first:
+      213: 4230115973913663229
+    second: Dark grey spritesheet 2_799
+  - first:
+      213: 6354144228701733602
+    second: Dark grey spritesheet 2_800
+  - first:
+      213: -2030482551192625053
+    second: Dark grey spritesheet 2_801
+  - first:
+      213: 8684237466878964066
+    second: Dark grey spritesheet 2_802
+  - first:
+      213: 8169889801754325741
+    second: Dark grey spritesheet 2_803
+  - first:
+      213: -1849557149067108392
+    second: Dark grey spritesheet 2_804
+  - first:
+      213: 6660774928435931253
+    second: Dark grey spritesheet 2_805
+  - first:
+      213: 467078445964459640
+    second: Dark grey spritesheet 2_806
+  - first:
+      213: 7325412046541727043
+    second: Dark grey spritesheet 2_807
+  - first:
+      213: 1251296389603914679
+    second: Dark grey spritesheet 2_808
+  - first:
+      213: -5853347965703723675
+    second: Dark grey spritesheet 2_809
+  - first:
+      213: -5620311297306498368
+    second: Dark grey spritesheet 2_810
+  - first:
+      213: -8725350629992952284
+    second: Dark grey spritesheet 2_811
+  - first:
+      213: 7730239460791742198
+    second: Dark grey spritesheet 2_812
+  - first:
+      213: -1553332605676850758
+    second: Dark grey spritesheet 2_813
+  - first:
+      213: 1842229430514319617
+    second: Dark grey spritesheet 2_814
+  - first:
+      213: 4410079870475691040
+    second: Dark grey spritesheet 2_815
+  - first:
+      213: 4604424157482258205
+    second: Dark grey spritesheet 2_816
+  - first:
+      213: -6571432185099909898
+    second: Dark grey spritesheet 2_817
+  - first:
+      213: -839855679988223921
+    second: Dark grey spritesheet 2_818
+  - first:
+      213: 9089018405855375632
+    second: Dark grey spritesheet 2_819
+  - first:
+      213: 9062228779689600617
+    second: Dark grey spritesheet 2_820
+  - first:
+      213: 7768317673903664771
+    second: Dark grey spritesheet 2_821
+  - first:
+      213: 1493894256702328220
+    second: Dark grey spritesheet 2_822
+  - first:
+      213: -8558591970019163830
+    second: Dark grey spritesheet 2_823
+  - first:
+      213: -2930577508997823031
+    second: Dark grey spritesheet 2_824
+  - first:
+      213: -8596709608770149998
+    second: Dark grey spritesheet 2_825
+  - first:
+      213: -5186793711385477909
+    second: Dark grey spritesheet 2_826
+  - first:
+      213: 6495480938914170696
+    second: Dark grey spritesheet 2_827
+  - first:
+      213: 8337862573274037358
+    second: Dark grey spritesheet 2_828
+  - first:
+      213: 4797605068539163552
+    second: Dark grey spritesheet 2_829
+  - first:
+      213: 8177433446229232256
+    second: Dark grey spritesheet 2_830
+  - first:
+      213: 7817095051109298030
+    second: Dark grey spritesheet 2_831
+  - first:
+      213: -8633078836951815899
+    second: Dark grey spritesheet 2_832
+  - first:
+      213: 7364221466861704609
+    second: Dark grey spritesheet 2_833
+  - first:
+      213: 4941828071388926726
+    second: Dark grey spritesheet 2_834
+  - first:
+      213: -9178839096302368715
+    second: Dark grey spritesheet 2_835
+  - first:
+      213: -8267281395756505845
+    second: Dark grey spritesheet 2_836
+  - first:
+      213: 5581922165112104824
+    second: Dark grey spritesheet 2_837
+  - first:
+      213: -8540403833907763078
+    second: Dark grey spritesheet 2_838
+  - first:
+      213: 8670127113745141483
+    second: Dark grey spritesheet 2_839
+  - first:
+      213: -9081043804387825439
+    second: Dark grey spritesheet 2_840
+  - first:
+      213: -9074568514613188117
+    second: Dark grey spritesheet 2_841
+  - first:
+      213: 4022671695500087601
+    second: Dark grey spritesheet 2_842
+  - first:
+      213: -709579465043586707
+    second: Dark grey spritesheet 2_843
+  - first:
+      213: 7521244152889586174
+    second: Dark grey spritesheet 2_844
+  - first:
+      213: 8987328012742314053
+    second: Dark grey spritesheet 2_845
+  - first:
+      213: -1642591837102014459
+    second: Dark grey spritesheet 2_846
+  - first:
+      213: 1149039864242734866
+    second: Dark grey spritesheet 2_847
+  - first:
+      213: 7098026105214234456
+    second: Dark grey spritesheet 2_848
+  - first:
+      213: 5972995775273746843
+    second: Dark grey spritesheet 2_849
+  - first:
+      213: -5232139349372503140
+    second: Dark grey spritesheet 2_850
+  - first:
+      213: 8798320338669184432
+    second: Dark grey spritesheet 2_851
+  - first:
+      213: 7854326939788824948
+    second: Dark grey spritesheet 2_852
+  - first:
+      213: -7421574737076377652
+    second: Dark grey spritesheet 2_853
+  - first:
+      213: -4739553864886409073
+    second: Dark grey spritesheet 2_854
+  - first:
+      213: -5542528974728482273
+    second: Dark grey spritesheet 2_855
+  - first:
+      213: 6344410391136591812
+    second: Dark grey spritesheet 2_856
+  - first:
+      213: -109169021503685787
+    second: Dark grey spritesheet 2_857
+  - first:
+      213: 4792876185524917427
+    second: Dark grey spritesheet 2_858
+  - first:
+      213: -7234618627390724070
+    second: Dark grey spritesheet 2_859
+  - first:
+      213: -7195088784548261064
+    second: Dark grey spritesheet 2_860
+  - first:
+      213: 9017394938017465880
+    second: Dark grey spritesheet 2_861
+  - first:
+      213: 8593699759521763446
+    second: Dark grey spritesheet 2_862
+  - first:
+      213: 6251439062850401662
+    second: Dark grey spritesheet 2_863
+  - first:
+      213: 6572432891724095604
+    second: Dark grey spritesheet 2_864
+  - first:
+      213: -2659659186705021051
+    second: Dark grey spritesheet 2_865
+  - first:
+      213: -1923450436708707486
+    second: Dark grey spritesheet 2_866
+  - first:
+      213: 8792828826978127800
+    second: Dark grey spritesheet 2_867
+  - first:
+      213: 950386050298338072
+    second: Dark grey spritesheet 2_868
+  - first:
+      213: 6378919270925275179
+    second: Dark grey spritesheet 2_869
+  - first:
+      213: -6436434816678190017
+    second: Dark grey spritesheet 2_870
+  - first:
+      213: 569270941402696156
+    second: Dark grey spritesheet 2_871
+  - first:
+      213: -4210429726895295128
+    second: Dark grey spritesheet 2_872
+  - first:
+      213: 4790290365361727566
+    second: Dark grey spritesheet 2_873
+  - first:
+      213: -5997340773135231947
+    second: Dark grey spritesheet 2_874
+  - first:
+      213: -6008397803329501446
+    second: Dark grey spritesheet 2_875
+  - first:
+      213: -7585483853461413982
+    second: Dark grey spritesheet 2_876
+  - first:
+      213: -4355321164873379835
+    second: Dark grey spritesheet 2_877
+  - first:
+      213: 8448468087801099845
+    second: Dark grey spritesheet 2_878
+  - first:
+      213: 5078833397658167590
+    second: Dark grey spritesheet 2_879
+  - first:
+      213: 5144566335507927234
+    second: Dark grey spritesheet 2_880
+  - first:
+      213: -8935294734638596147
+    second: Dark grey spritesheet 2_881
+  - first:
+      213: -4847824664855047370
+    second: Dark grey spritesheet 2_882
+  - first:
+      213: 2865321163164230498
+    second: Dark grey spritesheet 2_883
+  - first:
+      213: 9131585531939976215
+    second: Dark grey spritesheet 2_884
+  - first:
+      213: -2001161458645666558
+    second: Dark grey spritesheet 2_885
+  - first:
+      213: -3285166727781689484
+    second: Dark grey spritesheet 2_886
+  - first:
+      213: -1623980837395967385
+    second: Dark grey spritesheet 2_887
+  - first:
+      213: 6870324412862775325
+    second: Dark grey spritesheet 2_888
+  - first:
+      213: -2623136361484340516
+    second: Dark grey spritesheet 2_889
+  - first:
+      213: -7034853785741670882
+    second: Dark grey spritesheet 2_890
+  - first:
+      213: -5675845327354350808
+    second: Dark grey spritesheet 2_891
+  - first:
+      213: -1077998205576708252
+    second: Dark grey spritesheet 2_892
+  - first:
+      213: 7141814731553633448
+    second: Dark grey spritesheet 2_893
+  - first:
+      213: -7006561337517351184
+    second: Dark grey spritesheet 2_894
+  - first:
+      213: 4864044424488292260
+    second: Dark grey spritesheet 2_895
+  - first:
+      213: -3172105418407448331
+    second: Dark grey spritesheet 2_896
+  - first:
+      213: -8006845128817414181
+    second: Dark grey spritesheet 2_897
+  - first:
+      213: -8413363397194584557
+    second: Dark grey spritesheet 2_898
+  - first:
+      213: 2870797393597150412
+    second: Dark grey spritesheet 2_899
+  - first:
+      213: 6511385671030711615
+    second: Dark grey spritesheet 2_900
+  - first:
+      213: -2730573746968734003
+    second: Dark grey spritesheet 2_901
+  - first:
+      213: -4052251734197043394
+    second: Dark grey spritesheet 2_902
+  - first:
+      213: 9118468086355543243
+    second: Dark grey spritesheet 2_903
+  - first:
+      213: 8651575373505385059
+    second: Dark grey spritesheet 2_904
+  - first:
+      213: -8584889787744374555
+    second: Dark grey spritesheet 2_905
+  - first:
+      213: 5762338406401933561
+    second: Dark grey spritesheet 2_906
+  - first:
+      213: 1228325446643949925
+    second: Dark grey spritesheet 2_907
+  - first:
+      213: 8803114029025646279
+    second: Dark grey spritesheet 2_908
+  - first:
+      213: -1610850717543357359
+    second: Dark grey spritesheet 2_909
+  - first:
+      213: 1001934038852311151
+    second: Dark grey spritesheet 2_910
+  - first:
+      213: -4568727944711074263
+    second: Dark grey spritesheet 2_911
+  - first:
+      213: -8127497421576264253
+    second: Dark grey spritesheet 2_912
+  - first:
+      213: -7921985859503394022
+    second: Dark grey spritesheet 2_913
+  - first:
+      213: 2811222328515772687
+    second: Dark grey spritesheet 2_914
+  - first:
+      213: -4850456256056218534
+    second: Dark grey spritesheet 2_915
+  - first:
+      213: -6417618439083754591
+    second: Dark grey spritesheet 2_916
+  - first:
+      213: -4330149353362504759
+    second: Dark grey spritesheet 2_917
+  - first:
+      213: 5586082886610561518
+    second: Dark grey spritesheet 2_918
+  - first:
+      213: 1564076925002716739
+    second: Dark grey spritesheet 2_919
+  - first:
+      213: -5586389465247439040
+    second: Dark grey spritesheet 2_920
+  - first:
+      213: -5990973255286611762
+    second: Dark grey spritesheet 2_921
+  - first:
+      213: -8128221650077905915
+    second: Dark grey spritesheet 2_922
+  - first:
+      213: 5115624276414489838
+    second: Dark grey spritesheet 2_923
+  - first:
+      213: 7240180995570108424
+    second: Dark grey spritesheet 2_924
+  - first:
+      213: -4953172806054238718
+    second: Dark grey spritesheet 2_925
+  - first:
+      213: 8900024576528020737
+    second: Dark grey spritesheet 2_926
+  - first:
+      213: -4922055561518607657
+    second: Dark grey spritesheet 2_927
+  - first:
+      213: -5284354188404729017
+    second: Dark grey spritesheet 2_928
+  - first:
+      213: 8193011435237440465
+    second: Dark grey spritesheet 2_929
+  - first:
+      213: 1621147349646490650
+    second: Dark grey spritesheet 2_930
+  - first:
+      213: 30247667020167002
+    second: Dark grey spritesheet 2_931
+  - first:
+      213: -3134391312340216891
+    second: Dark grey spritesheet 2_932
+  - first:
+      213: -4401178150228761826
+    second: Dark grey spritesheet 2_933
+  - first:
+      213: 4191017221338509753
+    second: Dark grey spritesheet 2_934
+  - first:
+      213: 7040525026278803184
+    second: Dark grey spritesheet 2_935
+  - first:
+      213: 7216970701770867746
+    second: Dark grey spritesheet 2_936
+  - first:
+      213: 4253819760919321143
+    second: Dark grey spritesheet 2_937
+  - first:
+      213: -9059795644140927890
+    second: Dark grey spritesheet 2_938
+  - first:
+      213: -3303932461699518068
+    second: Dark grey spritesheet 2_939
+  - first:
+      213: -8777194924956884320
+    second: Dark grey spritesheet 2_940
+  - first:
+      213: 7319544141928351976
+    second: Dark grey spritesheet 2_941
+  - first:
+      213: 7528049594435391696
+    second: Dark grey spritesheet 2_942
+  - first:
+      213: 5660449322715351778
+    second: Dark grey spritesheet 2_943
+  - first:
+      213: 8983535935623686386
+    second: Dark grey spritesheet 2_944
+  - first:
+      213: -6321827596923542747
+    second: Dark grey spritesheet 2_945
+  - first:
+      213: -499531069401314591
+    second: Dark grey spritesheet 2_946
+  - first:
+      213: 5408943289426844958
+    second: Dark grey spritesheet 2_947
+  - first:
+      213: 1911595827757628914
+    second: Dark grey spritesheet 2_948
+  - first:
+      213: 4531112377672326005
+    second: Dark grey spritesheet 2_949
+  - first:
+      213: -6920356061355001063
+    second: Dark grey spritesheet 2_950
+  - first:
+      213: 3149542925850378270
+    second: Dark grey spritesheet 2_951
+  - first:
+      213: -3841057068850673691
+    second: Dark grey spritesheet 2_952
+  - first:
+      213: -1672875016309911259
+    second: Dark grey spritesheet 2_953
+  - first:
+      213: 2743055601934359386
+    second: Dark grey spritesheet 2_954
+  - first:
+      213: -6199196545499711576
+    second: Dark grey spritesheet 2_955
+  - first:
+      213: -4042990023209179755
+    second: Dark grey spritesheet 2_956
+  - first:
+      213: -565704984471321243
+    second: Dark grey spritesheet 2_957
+  - first:
+      213: 2172301442312101845
+    second: Dark grey spritesheet 2_958
+  - first:
+      213: -6984786427007666865
+    second: Dark grey spritesheet 2_959
+  - first:
+      213: -7997527308353977267
+    second: Dark grey spritesheet 2_960
+  - first:
+      213: -3818842333852786172
+    second: Dark grey spritesheet 2_961
+  - first:
+      213: -2240490427592173310
+    second: Dark grey spritesheet 2_962
+  - first:
+      213: -3716426443619730108
+    second: Dark grey spritesheet 2_963
+  - first:
+      213: 294849124180724024
+    second: Dark grey spritesheet 2_964
+  - first:
+      213: -3054246128645464592
+    second: Dark grey spritesheet 2_965
+  - first:
+      213: 6772667449567919622
+    second: Dark grey spritesheet 2_966
+  - first:
+      213: -4690044169731099529
+    second: Dark grey spritesheet 2_967
+  - first:
+      213: 4270355627189923328
+    second: Dark grey spritesheet 2_968
+  - first:
+      213: 37711005046759495
+    second: Dark grey spritesheet 2_969
+  - first:
+      213: -3168545621109211984
+    second: Dark grey spritesheet 2_970
+  - first:
+      213: -776275174071968718
+    second: Dark grey spritesheet 2_971
+  - first:
+      213: -5756707753313764845
+    second: Dark grey spritesheet 2_972
+  - first:
+      213: 2339015895519462830
+    second: Dark grey spritesheet 2_973
+  - first:
+      213: 7020701888921402469
+    second: Dark grey spritesheet 2_974
+  - first:
+      213: -625695598110417402
+    second: Dark grey spritesheet 2_975
+  - first:
+      213: 4949195525293450489
+    second: Dark grey spritesheet 2_976
+  - first:
+      213: 4624061420967595972
+    second: Dark grey spritesheet 2_977
+  - first:
+      213: -6813354072315681860
+    second: Dark grey spritesheet 2_978
+  - first:
+      213: 3716139900846408546
+    second: Dark grey spritesheet 2_979
+  - first:
+      213: 8449184688889742793
+    second: Dark grey spritesheet 2_980
+  - first:
+      213: -8869051099544305180
+    second: Dark grey spritesheet 2_981
+  - first:
+      213: -8850538630382038541
+    second: Dark grey spritesheet 2_982
+  - first:
+      213: 587689054457280469
+    second: Dark grey spritesheet 2_983
+  - first:
+      213: -4671786036383310828
+    second: Dark grey spritesheet 2_984
+  - first:
+      213: -7422481089697580434
+    second: Dark grey spritesheet 2_985
+  - first:
+      213: 155982496403539646
+    second: Dark grey spritesheet 2_986
+  - first:
+      213: 3413487675966037982
+    second: Dark grey spritesheet 2_987
+  - first:
+      213: -2281732061912752038
+    second: Dark grey spritesheet 2_988
+  - first:
+      213: -4402552224338920054
+    second: Dark grey spritesheet 2_989
+  - first:
+      213: -8330028273373856667
+    second: Dark grey spritesheet 2_990
+  - first:
+      213: -1957049436308983254
+    second: Dark grey spritesheet 2_991
+  - first:
+      213: 4487337598701973919
+    second: Dark grey spritesheet 2_992
+  - first:
+      213: -559376122872307887
+    second: Dark grey spritesheet 2_993
+  - first:
+      213: 1945246223476710957
+    second: Dark grey spritesheet 2_994
+  - first:
+      213: 6180805209539671769
+    second: Dark grey spritesheet 2_995
+  - first:
+      213: 6649953788514495727
+    second: Dark grey spritesheet 2_996
+  - first:
+      213: 6800070514653334519
+    second: Dark grey spritesheet 2_997
+  - first:
+      213: 4859737511651578655
+    second: Dark grey spritesheet 2_998
+  - first:
+      213: -2494955265130275997
+    second: Dark grey spritesheet 2_999
+  - first:
+      213: -8192731399523626265
+    second: Dark grey spritesheet 2_1000
+  - first:
+      213: 5705873839225551883
+    second: Dark grey spritesheet 2_1001
+  - first:
+      213: -3357858130747453027
+    second: Dark grey spritesheet 2_1002
+  - first:
+      213: 1339710141895331237
+    second: Dark grey spritesheet 2_1003
+  - first:
+      213: -3317211832988604235
+    second: Dark grey spritesheet 2_1004
+  - first:
+      213: 2310070894315664591
+    second: Dark grey spritesheet 2_1005
+  - first:
+      213: 4562033805322144676
+    second: Dark grey spritesheet 2_1006
+  - first:
+      213: -2814726765814277904
+    second: Dark grey spritesheet 2_1007
+  - first:
+      213: -3373039569006281877
+    second: Dark grey spritesheet 2_1008
+  - first:
+      213: 2709186061906688232
+    second: Dark grey spritesheet 2_1009
+  - first:
+      213: -8144542308218086279
+    second: Dark grey spritesheet 2_1010
+  - first:
+      213: -7915590085131206731
+    second: Dark grey spritesheet 2_1011
+  - first:
+      213: -2308499016500367659
+    second: Dark grey spritesheet 2_1012
+  - first:
+      213: -9100462000593732145
+    second: Dark grey spritesheet 2_1013
+  - first:
+      213: -6840054495703104629
+    second: Dark grey spritesheet 2_1014
+  - first:
+      213: -5431480356525374920
+    second: Dark grey spritesheet 2_1015
+  - first:
+      213: 5544029954253641520
+    second: Dark grey spritesheet 2_1016
+  - first:
+      213: -7133347549934779235
+    second: Dark grey spritesheet 2_1017
+  - first:
+      213: 7181179955106253821
+    second: Dark grey spritesheet 2_1018
+  - first:
+      213: 3198474190838860523
+    second: Dark grey spritesheet 2_1019
+  - first:
+      213: -5405583689132861764
+    second: Dark grey spritesheet 2_1020
+  - first:
+      213: 8964081393564536544
+    second: Dark grey spritesheet 2_1021
+  - first:
+      213: 7571674538442856360
+    second: Dark grey spritesheet 2_1022
+  - first:
+      213: -6103180345856342733
+    second: Dark grey spritesheet 2_1023
+  - first:
+      213: 8540795037549831173
+    second: Dark grey spritesheet 2_1024
+  - first:
+      213: 2781428819364676802
+    second: Dark grey spritesheet 2_1025
+  - first:
+      213: -1622666244736912020
+    second: Dark grey spritesheet 2_1026
+  - first:
+      213: -6176775986962941105
+    second: Dark grey spritesheet 2_1027
+  - first:
+      213: -2111125439888593806
+    second: Dark grey spritesheet 2_1028
+  - first:
+      213: -7820786423173109886
+    second: Dark grey spritesheet 2_1029
+  - first:
+      213: -1696221468814395045
+    second: Dark grey spritesheet 2_1030
+  - first:
+      213: -2198626527644446781
+    second: Dark grey spritesheet 2_1031
+  - first:
+      213: 7624089531866912266
+    second: Dark grey spritesheet 2_1032
+  - first:
+      213: -7100675948075662438
+    second: Dark grey spritesheet 2_1033
+  - first:
+      213: -2637355629005265846
+    second: Dark grey spritesheet 2_1034
+  - first:
+      213: -492223678371761837
+    second: Dark grey spritesheet 2_1035
+  - first:
+      213: -695172736692933034
+    second: Dark grey spritesheet 2_1036
+  - first:
+      213: 8332957915248795205
+    second: Dark grey spritesheet 2_1037
+  - first:
+      213: -213508811387256829
+    second: Dark grey spritesheet 2_1038
+  - first:
+      213: -5329536516421329835
+    second: Dark grey spritesheet 2_1039
+  - first:
+      213: 3328674024269138787
+    second: Dark grey spritesheet 2_1040
+  - first:
+      213: -9123487283783123792
+    second: Dark grey spritesheet 2_1041
+  - first:
+      213: 2985273573592734598
+    second: Dark grey spritesheet 2_1042
+  - first:
+      213: -8328345097413462052
+    second: Dark grey spritesheet 2_1043
+  - first:
+      213: 3262917526639040266
+    second: Dark grey spritesheet 2_1044
+  - first:
+      213: 4574422264075390324
+    second: Dark grey spritesheet 2_1045
+  - first:
+      213: 1037717033634711303
+    second: Dark grey spritesheet 2_1046
+  - first:
+      213: 4078373776960127678
+    second: Dark grey spritesheet 2_1047
+  - first:
+      213: -6627979438218460016
+    second: Dark grey spritesheet 2_1048
+  - first:
+      213: -2004680899520440516
+    second: Dark grey spritesheet 2_1049
+  - first:
+      213: 9014503198663681302
+    second: Dark grey spritesheet 2_1050
+  - first:
+      213: 4827684946594740235
+    second: Dark grey spritesheet 2_1051
+  - first:
+      213: -1959446197322583357
+    second: Dark grey spritesheet 2_1052
+  - first:
+      213: 7328814346718911527
+    second: Dark grey spritesheet 2_1053
+  - first:
+      213: -8691768170735426225
+    second: Dark grey spritesheet 2_1054
+  - first:
+      213: 4969964328116865263
+    second: Dark grey spritesheet 2_1055
+  - first:
+      213: 2955373550441352021
+    second: Dark grey spritesheet 2_1056
+  - first:
+      213: -4184299740707763617
+    second: Dark grey spritesheet 2_1057
+  - first:
+      213: -3334475819311300
+    second: Dark grey spritesheet 2_1058
+  - first:
+      213: -750867352545380563
+    second: Dark grey spritesheet 2_1059
+  - first:
+      213: 6409988794944919286
+    second: Dark grey spritesheet 2_1060
+  - first:
+      213: -4317627775468433973
+    second: Dark grey spritesheet 2_1061
+  - first:
+      213: 2862071186117253643
+    second: Dark grey spritesheet 2_1062
+  - first:
+      213: 4096079336695953002
+    second: Dark grey spritesheet 2_1063
+  - first:
+      213: 959538660080911273
+    second: Dark grey spritesheet 2_1064
+  - first:
+      213: -483304297006307333
+    second: Dark grey spritesheet 2_1065
+  - first:
+      213: 4927964383638409980
+    second: Dark grey spritesheet 2_1066
+  - first:
+      213: -2050516282941311238
+    second: Dark grey spritesheet 2_1067
+  - first:
+      213: 4498858551464039832
+    second: Dark grey spritesheet 2_1068
+  - first:
+      213: 6263075741147845266
+    second: Dark grey spritesheet 2_1069
+  - first:
+      213: 7473946764388430522
+    second: Dark grey spritesheet 2_1070
+  - first:
+      213: 9167665052619320261
+    second: Dark grey spritesheet 2_1071
+  - first:
+      213: -6602276312518134654
+    second: Dark grey spritesheet 2_1072
+  - first:
+      213: 522495678675413939
+    second: Dark grey spritesheet 2_1073
+  - first:
+      213: -5519179175837738977
+    second: Dark grey spritesheet 2_1074
+  - first:
+      213: 377844382753565419
+    second: Dark grey spritesheet 2_1075
+  - first:
+      213: 2010601471221076523
+    second: Dark grey spritesheet 2_1076
+  - first:
+      213: -6772867151122375476
+    second: Dark grey spritesheet 2_1077
+  - first:
+      213: 2046504049786074014
+    second: Dark grey spritesheet 2_1078
+  - first:
+      213: -1412143140365370544
+    second: Dark grey spritesheet 2_1079
+  - first:
+      213: 8498090945014820032
+    second: Dark grey spritesheet 2_1080
+  - first:
+      213: 2013861583975915116
+    second: Dark grey spritesheet 2_1081
+  - first:
+      213: 8081871759889649445
+    second: Dark grey spritesheet 2_1082
+  - first:
+      213: 6022798702151172601
+    second: Dark grey spritesheet 2_1083
+  - first:
+      213: 4628828879649166711
+    second: Dark grey spritesheet 2_1084
+  - first:
+      213: -1826484582205405383
+    second: Dark grey spritesheet 2_1085
+  - first:
+      213: 7695952313100145375
+    second: Dark grey spritesheet 2_1086
+  - first:
+      213: 5512971684549556182
+    second: Dark grey spritesheet 2_1087
+  - first:
+      213: 7957653436798229728
+    second: Dark grey spritesheet 2_1088
+  - first:
+      213: -4026380847558778571
+    second: Dark grey spritesheet 2_1089
+  - first:
+      213: -4589334099381623535
+    second: Dark grey spritesheet 2_1090
+  - first:
+      213: -466926104158806117
+    second: Dark grey spritesheet 2_1091
+  - first:
+      213: -8445404233685847956
+    second: Dark grey spritesheet 2_1092
+  - first:
+      213: 2156974282224417000
+    second: Dark grey spritesheet 2_1093
+  - first:
+      213: 8748678662324174733
+    second: Dark grey spritesheet 2_1094
+  - first:
+      213: -8721661797286773172
+    second: Dark grey spritesheet 2_1095
+  - first:
+      213: -7292487354347484018
+    second: Dark grey spritesheet 2_1096
+  - first:
+      213: 4291095929818266904
+    second: Dark grey spritesheet 2_1097
+  - first:
+      213: -2087851390064737577
+    second: Dark grey spritesheet 2_1098
+  - first:
+      213: 5234217387903555438
+    second: Dark grey spritesheet 2_1099
+  - first:
+      213: 7781439045675945412
+    second: Dark grey spritesheet 2_1100
+  - first:
+      213: 1041469470640214216
+    second: Dark grey spritesheet 2_1101
+  - first:
+      213: 8582133137166184043
+    second: Dark grey spritesheet 2_1102
+  - first:
+      213: 1130233118458531983
+    second: Dark grey spritesheet 2_1103
+  - first:
+      213: 5671311737697934886
+    second: Dark grey spritesheet 2_1104
+  - first:
+      213: 5655499176385833127
+    second: Dark grey spritesheet 2_1105
+  - first:
+      213: -1361098966046138607
+    second: Dark grey spritesheet 2_1106
+  - first:
+      213: 1624501014613658191
+    second: Dark grey spritesheet 2_1107
+  - first:
+      213: 6535788669043018757
+    second: Dark grey spritesheet 2_1108
+  - first:
+      213: -4072246612852168476
+    second: Dark grey spritesheet 2_1109
+  - first:
+      213: -3459114468708542840
+    second: Dark grey spritesheet 2_1110
+  - first:
+      213: 3875424427021213813
+    second: Dark grey spritesheet 2_1111
+  - first:
+      213: -1671724840882425077
+    second: Dark grey spritesheet 2_1112
+  - first:
+      213: 814681899623336670
+    second: Dark grey spritesheet 2_1113
+  - first:
+      213: 24689640265242413
+    second: Dark grey spritesheet 2_1114
+  - first:
+      213: 6753883902583630527
+    second: Dark grey spritesheet 2_1115
+  - first:
+      213: -3878008092584585054
+    second: Dark grey spritesheet 2_1116
+  - first:
+      213: -4081649962339192005
+    second: Dark grey spritesheet 2_1117
+  - first:
+      213: 5373201506313110799
+    second: Dark grey spritesheet 2_1118
+  - first:
+      213: 1630383991483941554
+    second: Dark grey spritesheet 2_1119
+  - first:
+      213: -4580379429751965810
+    second: Dark grey spritesheet 2_1120
+  - first:
+      213: 2286992092782323158
+    second: Dark grey spritesheet 2_1121
+  - first:
+      213: -2593132033307956946
+    second: Dark grey spritesheet 2_1122
+  - first:
+      213: 4851557426715766939
+    second: Dark grey spritesheet 2_1123
+  - first:
+      213: 3545580755350919191
+    second: Dark grey spritesheet 2_1124
+  - first:
+      213: -7299917551394172992
+    second: Dark grey spritesheet 2_1125
+  - first:
+      213: -4909615985027637533
+    second: Dark grey spritesheet 2_1126
+  - first:
+      213: -1632765076374932795
+    second: Dark grey spritesheet 2_1127
+  - first:
+      213: -7614903645712641337
+    second: Dark grey spritesheet 2_1128
+  - first:
+      213: -6569872687834754989
+    second: Dark grey spritesheet 2_1129
+  - first:
+      213: 412967250402544537
+    second: Dark grey spritesheet 2_1130
+  - first:
+      213: -7130983956658959298
+    second: Dark grey spritesheet 2_1131
+  - first:
+      213: 6350978449784680057
+    second: Dark grey spritesheet 2_1132
+  - first:
+      213: -5781731497484526496
+    second: Dark grey spritesheet 2_1133
+  - first:
+      213: -7910571112883515299
+    second: Dark grey spritesheet 2_1134
+  - first:
+      213: -43313371411033356
+    second: Dark grey spritesheet 2_1135
+  - first:
+      213: -973996617092167011
+    second: Dark grey spritesheet 2_1136
+  - first:
+      213: 7646249351187133391
+    second: Dark grey spritesheet 2_1137
+  - first:
+      213: -2826891112490195365
+    second: Dark grey spritesheet 2_1138
+  - first:
+      213: -5738268389122121813
+    second: Dark grey spritesheet 2_1139
+  - first:
+      213: 518538027025410426
+    second: Dark grey spritesheet 2_1140
+  - first:
+      213: 4104954665705766443
+    second: Dark grey spritesheet 2_1141
+  - first:
+      213: 2501957358049861933
+    second: Dark grey spritesheet 2_1142
+  - first:
+      213: -1220675944059491572
+    second: Dark grey spritesheet 2_1143
+  - first:
+      213: -2226118210130684165
+    second: Dark grey spritesheet 2_1144
+  - first:
+      213: 4468787450518849559
+    second: Dark grey spritesheet 2_1145
+  - first:
+      213: -4095391126292824680
+    second: Dark grey spritesheet 2_1146
+  - first:
+      213: -3422904942072699886
+    second: Dark grey spritesheet 2_1147
+  - first:
+      213: -349780630971445104
+    second: Dark grey spritesheet 2_1148
+  - first:
+      213: 3635731461206379805
+    second: Dark grey spritesheet 2_1149
+  - first:
+      213: 1450431516957411334
+    second: Dark grey spritesheet 2_1150
+  - first:
+      213: -6293546423951079629
+    second: Dark grey spritesheet 2_1151
+  - first:
+      213: 3078022117534012511
+    second: Dark grey spritesheet 2_1152
+  - first:
+      213: -324077839525186676
+    second: Dark grey spritesheet 2_1153
+  - first:
+      213: -8204413132705528134
+    second: Dark grey spritesheet 2_1154
+  - first:
+      213: 1166768504166208299
+    second: Dark grey spritesheet 2_1155
+  - first:
+      213: 4507100420171026196
+    second: Dark grey spritesheet 2_1156
+  - first:
+      213: -3036571818069662144
+    second: Dark grey spritesheet 2_1157
+  - first:
+      213: -6331575697696443271
+    second: Dark grey spritesheet 2_1158
+  - first:
+      213: -8339419384665534746
+    second: Dark grey spritesheet 2_1159
+  - first:
+      213: 1527279736843430231
+    second: Dark grey spritesheet 2_1160
+  - first:
+      213: 3762907914344321024
+    second: Dark grey spritesheet 2_1161
+  - first:
+      213: -6906983036211037685
+    second: Dark grey spritesheet 2_1162
+  - first:
+      213: -6671993978423732538
+    second: Dark grey spritesheet 2_1163
+  - first:
+      213: 879444143134198507
+    second: Dark grey spritesheet 2_1164
+  - first:
+      213: 4234071493947599331
+    second: Dark grey spritesheet 2_1165
+  - first:
+      213: 6419011446119464830
+    second: Dark grey spritesheet 2_1166
+  - first:
+      213: 4832707693103543038
+    second: Dark grey spritesheet 2_1167
+  - first:
+      213: -7879052017849959127
+    second: Dark grey spritesheet 2_1168
+  - first:
+      213: -5378808233554508917
+    second: Dark grey spritesheet 2_1169
+  - first:
+      213: 8100909761904389410
+    second: Dark grey spritesheet 2_1170
+  - first:
+      213: 3651797373574350570
+    second: Dark grey spritesheet 2_1171
+  - first:
+      213: -8692091722120102852
+    second: Dark grey spritesheet 2_1172
+  - first:
+      213: 3908707854978240641
+    second: Dark grey spritesheet 2_1173
+  - first:
+      213: 6126468234602539409
+    second: Dark grey spritesheet 2_1174
+  - first:
+      213: 6264504963727913480
+    second: Dark grey spritesheet 2_1175
+  - first:
+      213: 5609187329413506913
+    second: Dark grey spritesheet 2_1176
+  - first:
+      213: 4557871553937511891
+    second: Dark grey spritesheet 2_1177
+  - first:
+      213: -5394125000176516200
+    second: Dark grey spritesheet 2_1178
+  - first:
+      213: -2898598431385851653
+    second: Dark grey spritesheet 2_1179
+  - first:
+      213: -7771746468279657411
+    second: Dark grey spritesheet 2_1180
+  - first:
+      213: 5891584041214478340
+    second: Dark grey spritesheet 2_1181
+  - first:
+      213: 7771915649647391372
+    second: Dark grey spritesheet 2_1182
+  - first:
+      213: -5067181798230431292
+    second: Dark grey spritesheet 2_1183
+  - first:
+      213: 3066438954786597288
+    second: Dark grey spritesheet 2_1184
+  - first:
+      213: 3154901908888773917
+    second: Dark grey spritesheet 2_1185
+  - first:
+      213: 6324492650163258265
+    second: Dark grey spritesheet 2_1186
+  - first:
+      213: -2843089623343456890
+    second: Dark grey spritesheet 2_1187
+  - first:
+      213: -8030830551765993778
+    second: Dark grey spritesheet 2_1188
+  - first:
+      213: 164550387923192359
+    second: Dark grey spritesheet 2_1189
+  - first:
+      213: 5410007923153784354
+    second: Dark grey spritesheet 2_1190
+  - first:
+      213: -4032377250845743134
+    second: Dark grey spritesheet 2_1191
+  - first:
+      213: -7813860771231175380
+    second: Dark grey spritesheet 2_1192
+  - first:
+      213: 6887150497221918120
+    second: Dark grey spritesheet 2_1193
+  - first:
+      213: -7323891595095894067
+    second: Dark grey spritesheet 2_1194
+  - first:
+      213: 6021523089906195193
+    second: Dark grey spritesheet 2_1195
+  - first:
+      213: 8297806541446319285
+    second: Dark grey spritesheet 2_1196
+  - first:
+      213: 4727242616395632316
+    second: Dark grey spritesheet 2_1197
+  - first:
+      213: 771975444403126733
+    second: Dark grey spritesheet 2_1198
+  - first:
+      213: -662268256899242854
+    second: Dark grey spritesheet 2_1199
+  - first:
+      213: -6952689516358582862
+    second: Dark grey spritesheet 2_1200
+  - first:
+      213: -373800498927354008
+    second: Dark grey spritesheet 2_1201
+  - first:
+      213: -6666841360540368346
+    second: Dark grey spritesheet 2_1202
+  - first:
+      213: -209664362714000625
+    second: Dark grey spritesheet 2_1203
+  - first:
+      213: -8265841774977401035
+    second: Dark grey spritesheet 2_1204
+  - first:
+      213: -7553101280391128004
+    second: Dark grey spritesheet 2_1205
+  - first:
+      213: -2945662702114095728
+    second: Dark grey spritesheet 2_1206
+  - first:
+      213: 6339439058703218489
+    second: Dark grey spritesheet 2_1207
+  - first:
+      213: -4872608417244209741
+    second: Dark grey spritesheet 2_1208
+  - first:
+      213: 6593531549511460083
+    second: Dark grey spritesheet 2_1209
+  - first:
+      213: 5811437830606086296
+    second: Dark grey spritesheet 2_1210
+  - first:
+      213: 219066648337168558
+    second: Dark grey spritesheet 2_1211
+  - first:
+      213: 5309903308719368614
+    second: Dark grey spritesheet 2_1212
+  - first:
+      213: 7113063478501378582
+    second: Dark grey spritesheet 2_1213
+  - first:
+      213: -4874775386281876033
+    second: Dark grey spritesheet 2_1214
+  - first:
+      213: -3052614724962784674
+    second: Dark grey spritesheet 2_1215
+  - first:
+      213: -1486225389174168149
+    second: Dark grey spritesheet 2_1216
+  - first:
+      213: 1335876549364045910
+    second: Dark grey spritesheet 2_1217
+  - first:
+      213: -2835827828658507233
+    second: Dark grey spritesheet 2_1218
+  - first:
+      213: -4172692229596106672
+    second: Dark grey spritesheet 2_1219
+  - first:
+      213: -5082769450474264649
+    second: Dark grey spritesheet 2_1220
+  - first:
+      213: -974229149805538544
+    second: Dark grey spritesheet 2_1221
+  - first:
+      213: 3894809054824202130
+    second: Dark grey spritesheet 2_1222
+  - first:
+      213: -1540417828972341717
+    second: Dark grey spritesheet 2_1223
+  - first:
+      213: -4278980331251316791
+    second: Dark grey spritesheet 2_1224
+  - first:
+      213: 802257656242508186
+    second: Dark grey spritesheet 2_1225
+  - first:
+      213: 6070569137287238495
+    second: Dark grey spritesheet 2_1226
+  - first:
+      213: -8808155438496594279
+    second: Dark grey spritesheet 2_1227
+  - first:
+      213: -7323018699930086038
+    second: Dark grey spritesheet 2_1228
+  - first:
+      213: 4434651282414842897
+    second: Dark grey spritesheet 2_1229
+  - first:
+      213: -854484290682478078
+    second: Dark grey spritesheet 2_1230
+  - first:
+      213: 8231763199082589595
+    second: Dark grey spritesheet 2_1231
+  - first:
+      213: -7676794737587821629
+    second: Dark grey spritesheet 2_1232
+  - first:
+      213: -7431089205242880049
+    second: Dark grey spritesheet 2_1233
+  - first:
+      213: -3988975445945192221
+    second: Dark grey spritesheet 2_1234
+  - first:
+      213: 3478152080395477553
+    second: Dark grey spritesheet 2_1235
+  - first:
+      213: 855212375816864760
+    second: Dark grey spritesheet 2_1236
+  - first:
+      213: -5197540928376854603
+    second: Dark grey spritesheet 2_1237
+  - first:
+      213: -2826036273538503562
+    second: Dark grey spritesheet 2_1238
+  - first:
+      213: -7475771478008149400
+    second: Dark grey spritesheet 2_1239
+  - first:
+      213: 4362217880791060231
+    second: Dark grey spritesheet 2_1240
+  - first:
+      213: -3349227790320116797
+    second: Dark grey spritesheet 2_1241
+  - first:
+      213: 8948683960127369484
+    second: Dark grey spritesheet 2_1242
+  - first:
+      213: -2979564046601260208
+    second: Dark grey spritesheet 2_1243
+  - first:
+      213: -1635180384524143776
+    second: Dark grey spritesheet 2_1244
+  - first:
+      213: 4028650255008365582
+    second: Dark grey spritesheet 2_1245
+  - first:
+      213: 5656897526744537920
+    second: Dark grey spritesheet 2_1246
+  - first:
+      213: -609253889473611846
+    second: Dark grey spritesheet 2_1247
+  - first:
+      213: 5174052295964388954
+    second: Dark grey spritesheet 2_1248
+  - first:
+      213: 5590888693716451310
+    second: Dark grey spritesheet 2_1249
+  - first:
+      213: -2228893162263850127
+    second: Dark grey spritesheet 2_1250
+  - first:
+      213: -8464492605152554673
+    second: Dark grey spritesheet 2_1251
+  - first:
+      213: -3024675683867262309
+    second: Dark grey spritesheet 2_1252
+  - first:
+      213: 4242742590333888984
+    second: Dark grey spritesheet 2_1253
+  - first:
+      213: -7298788976157879496
+    second: Dark grey spritesheet 2_1254
+  - first:
+      213: 8223967021337039006
+    second: Dark grey spritesheet 2_1255
+  - first:
+      213: -3014894061006927261
+    second: Dark grey spritesheet 2_1256
+  - first:
+      213: -6174918169415074055
+    second: Dark grey spritesheet 2_1257
+  - first:
+      213: 8839683489577893916
+    second: Dark grey spritesheet 2_1258
+  - first:
+      213: -5664292297281215025
+    second: Dark grey spritesheet 2_1259
+  - first:
+      213: -9023159194106205242
+    second: Dark grey spritesheet 2_1260
+  - first:
+      213: 4607125567655694415
+    second: Dark grey spritesheet 2_1261
+  - first:
+      213: 4811565418932487658
+    second: Dark grey spritesheet 2_1262
+  - first:
+      213: -9068848791545748204
+    second: Dark grey spritesheet 2_1263
+  - first:
+      213: 4926576868449897591
+    second: Dark grey spritesheet 2_1264
+  - first:
+      213: 7869324286437700436
+    second: Dark grey spritesheet 2_1265
+  - first:
+      213: 2505874928450893112
+    second: Dark grey spritesheet 2_1266
+  - first:
+      213: 5081000496486344477
+    second: Dark grey spritesheet 2_1267
+  - first:
+      213: 7364537931201367642
+    second: Dark grey spritesheet 2_1268
+  - first:
+      213: 2468819979694901189
+    second: Dark grey spritesheet 2_1269
+  - first:
+      213: -6378125725687643901
+    second: Dark grey spritesheet 2_1270
+  - first:
+      213: 2245551893449633273
+    second: Dark grey spritesheet 2_1271
+  - first:
+      213: 6273262649381311383
+    second: Dark grey spritesheet 2_1272
+  - first:
+      213: 896718352168261160
+    second: Dark grey spritesheet 2_1273
+  - first:
+      213: 3984767169551184699
+    second: Dark grey spritesheet 2_1274
+  - first:
+      213: -560961258634721036
+    second: Dark grey spritesheet 2_1275
+  - first:
+      213: 7701752011247053330
+    second: Dark grey spritesheet 2_1276
+  - first:
+      213: 6038059318840310798
+    second: Dark grey spritesheet 2_1277
+  - first:
+      213: 2304938199399487508
+    second: Dark grey spritesheet 2_1278
+  - first:
+      213: -8707837884407601710
+    second: Dark grey spritesheet 2_1279
+  - first:
+      213: -8425535862782116756
+    second: Dark grey spritesheet 2_1280
+  - first:
+      213: 62589737566193447
+    second: Dark grey spritesheet 2_1281
+  - first:
+      213: -6339904812777045878
+    second: Dark grey spritesheet 2_1282
+  - first:
+      213: -1110117374492036836
+    second: Dark grey spritesheet 2_1283
+  - first:
+      213: -5375807043111729003
+    second: Dark grey spritesheet 2_1284
+  - first:
+      213: -6376270448929610546
+    second: Dark grey spritesheet 2_1285
+  - first:
+      213: 5948236656830447533
+    second: Dark grey spritesheet 2_1286
+  - first:
+      213: 3248819142914664663
+    second: Dark grey spritesheet 2_1287
+  - first:
+      213: 8656894872147715565
+    second: Dark grey spritesheet 2_1288
+  - first:
+      213: 624145421436906926
+    second: Dark grey spritesheet 2_1289
+  - first:
+      213: -5932373389358045339
+    second: Dark grey spritesheet 2_1290
+  - first:
+      213: 2971222637057731091
+    second: Dark grey spritesheet 2_1291
+  - first:
+      213: -1197207176754051313
+    second: Dark grey spritesheet 2_1292
+  - first:
+      213: 3025147532655472697
+    second: Dark grey spritesheet 2_1293
+  - first:
+      213: -137656544632590060
+    second: Dark grey spritesheet 2_1294
+  - first:
+      213: -4043766192398935824
+    second: Dark grey spritesheet 2_1295
+  - first:
+      213: -8214802239718962745
+    second: Dark grey spritesheet 2_1296
+  - first:
+      213: -3866814881762492126
+    second: Dark grey spritesheet 2_1297
+  - first:
+      213: 409616802938603416
+    second: Dark grey spritesheet 2_1298
+  - first:
+      213: -4791112516717290103
+    second: Dark grey spritesheet 2_1299
+  - first:
+      213: -8394157303443263345
+    second: Dark grey spritesheet 2_1300
+  - first:
+      213: -8939355733488376959
+    second: Dark grey spritesheet 2_1301
+  - first:
+      213: 1553983584604974905
+    second: Dark grey spritesheet 2_1302
+  - first:
+      213: 3350201960794280197
+    second: Dark grey spritesheet 2_1303
+  - first:
+      213: 7070021671284026861
+    second: Dark grey spritesheet 2_1304
+  - first:
+      213: -2889563721398931491
+    second: Dark grey spritesheet 2_1305
+  - first:
+      213: -526576031063329522
+    second: Dark grey spritesheet 2_1306
+  - first:
+      213: 74627231027005679
+    second: Dark grey spritesheet 2_1307
+  - first:
+      213: -773440221734863781
+    second: Dark grey spritesheet 2_1308
+  - first:
+      213: -8986155794330501808
+    second: Dark grey spritesheet 2_1309
+  - first:
+      213: 5384347616963017413
+    second: Dark grey spritesheet 2_1310
+  - first:
+      213: 898233177931050541
+    second: Dark grey spritesheet 2_1311
+  - first:
+      213: -2414165159883021643
+    second: Dark grey spritesheet 2_1312
+  - first:
+      213: 8250157529152233191
+    second: Dark grey spritesheet 2_1313
+  - first:
+      213: -8260707455004814274
+    second: Dark grey spritesheet 2_1314
+  - first:
+      213: -4090403634526785577
+    second: Dark grey spritesheet 2_1315
+  - first:
+      213: -7044533234798856673
+    second: Dark grey spritesheet 2_1316
+  - first:
+      213: -1225891539366076388
+    second: Dark grey spritesheet 2_1317
+  - first:
+      213: 4316034375745556174
+    second: Dark grey spritesheet 2_1318
+  - first:
+      213: -2704747366764116673
+    second: Dark grey spritesheet 2_1319
+  - first:
+      213: 7569884447699718369
+    second: Dark grey spritesheet 2_1320
+  - first:
+      213: -4028727445867400659
+    second: Dark grey spritesheet 2_1321
+  - first:
+      213: 3495638192797446653
+    second: Dark grey spritesheet 2_1322
+  - first:
+      213: 6068066770174349956
+    second: Dark grey spritesheet 2_1323
+  - first:
+      213: 9195861018658867722
+    second: Dark grey spritesheet 2_1324
+  - first:
+      213: -2732443275519847950
+    second: Dark grey spritesheet 2_1325
+  - first:
+      213: 3120947043792316697
+    second: Dark grey spritesheet 2_1326
+  - first:
+      213: 9211738497297363823
+    second: Dark grey spritesheet 2_1327
+  - first:
+      213: -5851584558156186314
+    second: Dark grey spritesheet 2_1328
+  - first:
+      213: 5531541433067310174
+    second: Dark grey spritesheet 2_1329
+  - first:
+      213: -4775118117782623968
+    second: Dark grey spritesheet 2_1330
+  - first:
+      213: -6308488239272317232
+    second: Dark grey spritesheet 2_1331
+  - first:
+      213: -2005029590723383884
+    second: Dark grey spritesheet 2_1332
+  - first:
+      213: 4091200610739473352
+    second: Dark grey spritesheet 2_1333
+  - first:
+      213: -1575420787763657282
+    second: Dark grey spritesheet 2_1334
+  - first:
+      213: -6878211214124033229
+    second: Dark grey spritesheet 2_1335
+  - first:
+      213: 1645763892381379104
+    second: Dark grey spritesheet 2_1336
+  - first:
+      213: -8776078451371330611
+    second: Dark grey spritesheet 2_1337
+  - first:
+      213: -1389281825645280316
+    second: Dark grey spritesheet 2_1338
+  - first:
+      213: -6714586712842944339
+    second: Dark grey spritesheet 2_1339
+  - first:
+      213: 7858420411542762719
+    second: Dark grey spritesheet 2_1340
+  - first:
+      213: -4137065490787491643
+    second: Dark grey spritesheet 2_1341
+  - first:
+      213: -17948402285862531
+    second: Dark grey spritesheet 2_1342
+  - first:
+      213: -3068842648384806970
+    second: Dark grey spritesheet 2_1343
+  - first:
+      213: 3873949241644456518
+    second: Dark grey spritesheet 2_1344
+  - first:
+      213: 1986660042841654544
+    second: Dark grey spritesheet 2_1345
+  - first:
+      213: -3640794255612334334
+    second: Dark grey spritesheet 2_1346
+  - first:
+      213: 8181743997189162415
+    second: Dark grey spritesheet 2_1347
+  - first:
+      213: -8779175133896600594
+    second: Dark grey spritesheet 2_1348
+  - first:
+      213: 6616094692560696406
+    second: Dark grey spritesheet 2_1349
+  - first:
+      213: 6721387899562895351
+    second: Dark grey spritesheet 2_1350
+  - first:
+      213: 3338919553234953015
+    second: Dark grey spritesheet 2_1351
+  - first:
+      213: -1948430736344354983
+    second: Dark grey spritesheet 2_1352
+  - first:
+      213: -3047429546034960913
+    second: Dark grey spritesheet 2_1353
+  - first:
+      213: 1768042038562619623
+    second: Dark grey spritesheet 2_1354
+  - first:
+      213: -1768959693233107242
+    second: Dark grey spritesheet 2_1355
+  - first:
+      213: 1639771360670376055
+    second: Dark grey spritesheet 2_1356
+  - first:
+      213: -284803278798629311
+    second: Dark grey spritesheet 2_1357
+  - first:
+      213: -3198865256346326621
+    second: Dark grey spritesheet 2_1358
+  - first:
+      213: 2018887816966855225
+    second: Dark grey spritesheet 2_1359
+  - first:
+      213: -5791645115479686462
+    second: Dark grey spritesheet 2_1360
+  - first:
+      213: 1383259297880214752
+    second: Dark grey spritesheet 2_1361
+  - first:
+      213: 736945775604048199
+    second: Dark grey spritesheet 2_1362
+  - first:
+      213: 5828910741318264035
+    second: Dark grey spritesheet 2_1363
+  - first:
+      213: 1853908980649777539
+    second: Dark grey spritesheet 2_1364
+  - first:
+      213: 1881713510792624561
+    second: Dark grey spritesheet 2_1365
+  - first:
+      213: 6703174910849980808
+    second: Dark grey spritesheet 2_1366
+  - first:
+      213: -4575300679338188256
+    second: Dark grey spritesheet 2_1367
+  - first:
+      213: -2883049696461182451
+    second: Dark grey spritesheet 2_1368
+  - first:
+      213: 4166445426954403033
+    second: Dark grey spritesheet 2_1369
+  - first:
+      213: 4985947874854733823
+    second: Dark grey spritesheet 2_1370
+  - first:
+      213: 2983990721955913668
+    second: Dark grey spritesheet 2_1371
+  - first:
+      213: -1000460964874692049
+    second: Dark grey spritesheet 2_1372
+  - first:
+      213: 5677977669658791882
+    second: Dark grey spritesheet 2_1373
+  - first:
+      213: 913368851757550433
+    second: Dark grey spritesheet 2_1374
+  - first:
+      213: 5532438440295248709
+    second: Dark grey spritesheet 2_1375
+  - first:
+      213: 7323485048706558408
+    second: Dark grey spritesheet 2_1376
+  - first:
+      213: 6344244233355762473
+    second: Dark grey spritesheet 2_1377
+  - first:
+      213: -7706619060767903073
+    second: Dark grey spritesheet 2_1378
+  - first:
+      213: 2996125323027241915
+    second: Dark grey spritesheet 2_1379
+  - first:
+      213: 5334264271272043466
+    second: Dark grey spritesheet 2_1380
+  - first:
+      213: 86705442750739792
+    second: Dark grey spritesheet 2_1381
+  - first:
+      213: 8745257677570233709
+    second: Dark grey spritesheet 2_1382
+  - first:
+      213: 6310855560354151097
+    second: Dark grey spritesheet 2_1383
+  - first:
+      213: -6123100295652725689
+    second: Dark grey spritesheet 2_1384
+  - first:
+      213: 7314714272207632895
+    second: Dark grey spritesheet 2_1385
+  - first:
+      213: 8928673337734136154
+    second: Dark grey spritesheet 2_1386
+  - first:
+      213: -8903892480774908786
+    second: Dark grey spritesheet 2_1387
+  - first:
+      213: -294053894533591923
+    second: Dark grey spritesheet 2_1388
+  - first:
+      213: 1535467556266962446
+    second: Dark grey spritesheet 2_1389
+  - first:
+      213: 997580961435462598
+    second: Dark grey spritesheet 2_1390
+  - first:
+      213: -6362117366841649032
+    second: Dark grey spritesheet 2_1391
+  - first:
+      213: 4544119740330696601
+    second: Dark grey spritesheet 2_1392
+  - first:
+      213: -8247319753946841589
+    second: Dark grey spritesheet 2_1393
+  - first:
+      213: 3366164092457538604
+    second: Dark grey spritesheet 2_1394
+  - first:
+      213: -850843599482803064
+    second: Dark grey spritesheet 2_1395
+  - first:
+      213: 261273284167449140
+    second: Dark grey spritesheet 2_1396
+  - first:
+      213: -2714613099676930207
+    second: Dark grey spritesheet 2_1397
+  - first:
+      213: 8249139890831820159
+    second: Dark grey spritesheet 2_1398
+  - first:
+      213: 566483666442796349
+    second: Dark grey spritesheet 2_1399
+  - first:
+      213: 1899272755836009361
+    second: Dark grey spritesheet 2_1400
+  - first:
+      213: 4654787895202193762
+    second: Dark grey spritesheet 2_1401
+  - first:
+      213: 5557401506745578308
+    second: Dark grey spritesheet 2_1402
+  - first:
+      213: 7473562070497880809
+    second: Dark grey spritesheet 2_1403
+  - first:
+      213: -485362773337582449
+    second: Dark grey spritesheet 2_1404
+  - first:
+      213: 8178406972212529215
+    second: Dark grey spritesheet 2_1405
+  - first:
+      213: 6796065652919484440
+    second: Dark grey spritesheet 2_1406
+  - first:
+      213: -4874952376104377895
+    second: Dark grey spritesheet 2_1407
+  - first:
+      213: -8847910003559233939
+    second: Dark grey spritesheet 2_1408
+  - first:
+      213: 6704594664282604798
+    second: Dark grey spritesheet 2_1409
+  - first:
+      213: 8693852354282093904
+    second: Dark grey spritesheet 2_1410
+  - first:
+      213: -4185627419945200571
+    second: Dark grey spritesheet 2_1411
+  - first:
+      213: -9012225776753117589
+    second: Dark grey spritesheet 2_1412
+  - first:
+      213: -8050364828599635694
+    second: Dark grey spritesheet 2_1413
+  - first:
+      213: -8979316718639636738
+    second: Dark grey spritesheet 2_1414
+  - first:
+      213: 72651260920729868
+    second: Dark grey spritesheet 2_1415
+  - first:
+      213: 1008774390222222354
+    second: Dark grey spritesheet 2_1416
+  - first:
+      213: 8949888327212700911
+    second: Dark grey spritesheet 2_1417
+  - first:
+      213: -731657701405777655
+    second: Dark grey spritesheet 2_1418
+  - first:
+      213: 5389818821137315826
+    second: Dark grey spritesheet 2_1419
+  - first:
+      213: 3274729987239032249
+    second: Dark grey spritesheet 2_1420
+  - first:
+      213: -5884101845478526365
+    second: Dark grey spritesheet 2_1421
+  - first:
+      213: 7363197154062485519
+    second: Dark grey spritesheet 2_1422
+  - first:
+      213: 131150603188239588
+    second: Dark grey spritesheet 2_1423
+  - first:
+      213: 899815219512526472
+    second: Dark grey spritesheet 2_1424
+  - first:
+      213: 9201678777202037944
+    second: Dark grey spritesheet 2_1425
+  - first:
+      213: -8626694715710423219
+    second: Dark grey spritesheet 2_1426
+  - first:
+      213: 3105562781593173333
+    second: Dark grey spritesheet 2_1427
+  - first:
+      213: 3437888257238067103
+    second: Dark grey spritesheet 2_1428
+  - first:
+      213: 6257305625825279942
+    second: Dark grey spritesheet 2_1429
+  - first:
+      213: 2295296777689108672
+    second: Dark grey spritesheet 2_1430
+  - first:
+      213: -5854546772196901652
+    second: Dark grey spritesheet 2_1431
+  - first:
+      213: 3120617699964233895
+    second: Dark grey spritesheet 2_1432
+  - first:
+      213: 1582051682125488159
+    second: Dark grey spritesheet 2_1433
+  - first:
+      213: -4423137691684626222
+    second: Dark grey spritesheet 2_1434
+  - first:
+      213: -618437662020582611
+    second: Dark grey spritesheet 2_1435
+  - first:
+      213: -566627320966958986
+    second: Dark grey spritesheet 2_1436
+  - first:
+      213: 9012611548407008934
+    second: Dark grey spritesheet 2_1437
+  - first:
+      213: 7388631616220064521
+    second: Dark grey spritesheet 2_1438
+  - first:
+      213: -1958738856786711724
+    second: Dark grey spritesheet 2_1439
+  - first:
+      213: -4720913379205504800
+    second: Dark grey spritesheet 2_1440
+  - first:
+      213: -4262034388008909220
+    second: Dark grey spritesheet 2_1441
+  - first:
+      213: 3632382754447843911
+    second: Dark grey spritesheet 2_1442
+  - first:
+      213: 5096525872068595822
+    second: Dark grey spritesheet 2_1443
+  - first:
+      213: 739773133548367651
+    second: Dark grey spritesheet 2_1444
+  - first:
+      213: -1798462211643880249
+    second: Dark grey spritesheet 2_1445
+  - first:
+      213: 5426802828875528981
+    second: Dark grey spritesheet 2_1446
+  - first:
+      213: 3086256872423809097
+    second: Dark grey spritesheet 2_1447
+  - first:
+      213: -2349666948311600219
+    second: Dark grey spritesheet 2_1448
+  - first:
+      213: -4348937443460416566
+    second: Dark grey spritesheet 2_1449
+  - first:
+      213: 795228830000185112
+    second: Dark grey spritesheet 2_1450
+  - first:
+      213: 5661316512772854754
+    second: Dark grey spritesheet 2_1451
+  - first:
+      213: 4773040148021278074
+    second: Dark grey spritesheet 2_1452
+  - first:
+      213: 2580778212232310277
+    second: Dark grey spritesheet 2_1453
+  - first:
+      213: 3727862720605806813
+    second: Dark grey spritesheet 2_1454
+  - first:
+      213: -5247245833200596253
+    second: Dark grey spritesheet 2_1455
+  - first:
+      213: -3491686549078347862
+    second: Dark grey spritesheet 2_1456
+  - first:
+      213: -5193220198290865896
+    second: Dark grey spritesheet 2_1457
+  - first:
+      213: 211837230282381680
+    second: Dark grey spritesheet 2_1458
+  - first:
+      213: -2242733657258198452
+    second: Dark grey spritesheet 2_1459
+  - first:
+      213: -424354756887073121
+    second: Dark grey spritesheet 2_1460
+  - first:
+      213: -8494487411285405593
+    second: Dark grey spritesheet 2_1461
+  - first:
+      213: -8517082970812748108
+    second: Dark grey spritesheet 2_1462
+  - first:
+      213: 5701230427883552211
+    second: Dark grey spritesheet 2_1463
+  - first:
+      213: -5818416841149189446
+    second: Dark grey spritesheet 2_1464
+  - first:
+      213: 729091648324087630
+    second: Dark grey spritesheet 2_1465
+  - first:
+      213: 135316517107489575
+    second: Dark grey spritesheet 2_1466
+  - first:
+      213: -2245294362790052661
+    second: Dark grey spritesheet 2_1467
+  - first:
+      213: -499436832870058516
+    second: Dark grey spritesheet 2_1468
+  - first:
+      213: 7313510483874947238
+    second: Dark grey spritesheet 2_1469
+  - first:
+      213: 7328281075723501133
+    second: Dark grey spritesheet 2_1470
+  - first:
+      213: -3561849452711978778
+    second: Dark grey spritesheet 2_1471
+  - first:
+      213: -4287799099309847981
+    second: Dark grey spritesheet 2_1472
+  - first:
+      213: -4536630803000868786
+    second: Dark grey spritesheet 2_1473
+  - first:
+      213: 5801051588660634587
+    second: Dark grey spritesheet 2_1474
+  - first:
+      213: 245721773744357948
+    second: Dark grey spritesheet 2_1475
+  - first:
+      213: 5123098701631649648
+    second: Dark grey spritesheet 2_1476
+  - first:
+      213: -845249304549535898
+    second: Dark grey spritesheet 2_1477
+  - first:
+      213: 5308827259394502931
+    second: Dark grey spritesheet 2_1478
+  - first:
+      213: -8046189373169347892
+    second: Dark grey spritesheet 2_1479
+  - first:
+      213: -6762287583214175601
+    second: Dark grey spritesheet 2_1480
+  - first:
+      213: 3482529212935888107
+    second: Dark grey spritesheet 2_1481
+  - first:
+      213: -7850805951635583525
+    second: Dark grey spritesheet 2_1482
+  - first:
+      213: 4054369281701288376
+    second: Dark grey spritesheet 2_1483
+  - first:
+      213: -207691269121468661
+    second: Dark grey spritesheet 2_1484
+  - first:
+      213: -6701836236332832327
+    second: Dark grey spritesheet 2_1485
+  - first:
+      213: -3501637279200342121
+    second: Dark grey spritesheet 2_1486
+  - first:
+      213: -4876109624176902086
+    second: Dark grey spritesheet 2_1487
+  - first:
+      213: -3301359575478516213
+    second: Dark grey spritesheet 2_1488
+  - first:
+      213: 471027334446172729
+    second: Dark grey spritesheet 2_1489
+  - first:
+      213: -8694494993555209912
+    second: Dark grey spritesheet 2_1490
+  - first:
+      213: 4805516549150486618
+    second: Dark grey spritesheet 2_1491
+  - first:
+      213: 7324133446658800175
+    second: Dark grey spritesheet 2_1492
+  - first:
+      213: 3070379755757277240
+    second: Dark grey spritesheet 2_1493
+  - first:
+      213: -7532734123555056644
+    second: Dark grey spritesheet 2_1494
+  - first:
+      213: 5552190187044024940
+    second: Dark grey spritesheet 2_1495
+  - first:
+      213: -7665667650744185832
+    second: Dark grey spritesheet 2_1496
+  - first:
+      213: -4215585411202567867
+    second: Dark grey spritesheet 2_1497
+  - first:
+      213: -7657558200794112523
+    second: Dark grey spritesheet 2_1498
+  - first:
+      213: -4486710292888343092
+    second: Dark grey spritesheet 2_1499
+  - first:
+      213: 2256357683227231310
+    second: Dark grey spritesheet 2_1500
+  - first:
+      213: -3068993733031709367
+    second: Dark grey spritesheet 2_1501
+  - first:
+      213: 6897989378440287586
+    second: Dark grey spritesheet 2_1502
+  - first:
+      213: 2893495849597552881
+    second: Dark grey spritesheet 2_1503
+  - first:
+      213: 8248360575011744027
+    second: Dark grey spritesheet 2_1504
+  - first:
+      213: -7112172432145543424
+    second: Dark grey spritesheet 2_1505
+  - first:
+      213: -7743961988649926695
+    second: Dark grey spritesheet 2_1506
+  - first:
+      213: 7681663990464185165
+    second: Dark grey spritesheet 2_1507
+  - first:
+      213: -2896248383601421361
+    second: Dark grey spritesheet 2_1508
+  - first:
+      213: 6793198766944274535
+    second: Dark grey spritesheet 2_1509
+  - first:
+      213: -5252684204383608096
+    second: Dark grey spritesheet 2_1510
+  - first:
+      213: -1503092495138913391
+    second: Dark grey spritesheet 2_1511
+  - first:
+      213: -2671784671900880664
+    second: Dark grey spritesheet 2_1512
+  - first:
+      213: 7248383178959761074
+    second: Dark grey spritesheet 2_1513
+  - first:
+      213: -8534463735735993524
+    second: Dark grey spritesheet 2_1514
+  - first:
+      213: -4487390767208965168
+    second: Dark grey spritesheet 2_1515
+  - first:
+      213: 4372437244481922531
+    second: Dark grey spritesheet 2_1516
+  - first:
+      213: 6101619481947701229
+    second: Dark grey spritesheet 2_1517
+  - first:
+      213: -5638791877211442990
+    second: Dark grey spritesheet 2_1518
+  - first:
+      213: 3891901035046149547
+    second: Dark grey spritesheet 2_1519
+  - first:
+      213: -3901409156626868879
+    second: Dark grey spritesheet 2_1520
+  - first:
+      213: 4727510143121086808
+    second: Dark grey spritesheet 2_1521
+  - first:
+      213: -4623105476326209494
+    second: Dark grey spritesheet 2_1522
+  - first:
+      213: 2841833900096492572
+    second: Dark grey spritesheet 2_1523
+  - first:
+      213: 4789443910249606312
+    second: Dark grey spritesheet 2_1524
+  - first:
+      213: -1889234140425446752
+    second: Dark grey spritesheet 2_1525
+  - first:
+      213: -2188285079066867922
+    second: Dark grey spritesheet 2_1526
+  - first:
+      213: 1603393517018421223
+    second: Dark grey spritesheet 2_1527
+  - first:
+      213: 2916069279790823028
+    second: Dark grey spritesheet 2_1528
+  - first:
+      213: -8156264129917097863
+    second: Dark grey spritesheet 2_1529
+  - first:
+      213: 2186341256959675821
+    second: Dark grey spritesheet 2_1530
+  - first:
+      213: 5351922605304694110
+    second: Dark grey spritesheet 2_1531
+  - first:
+      213: 4751159416116819239
+    second: Dark grey spritesheet 2_1532
+  - first:
+      213: -240794083831144535
+    second: Dark grey spritesheet 2_1533
+  - first:
+      213: -8762524048874047802
+    second: Dark grey spritesheet 2_1534
+  - first:
+      213: -5634072857953434901
+    second: Dark grey spritesheet 2_1535
+  - first:
+      213: -289310734555919954
+    second: Dark grey spritesheet 2_1536
+  - first:
+      213: -3142571210173832124
+    second: Dark grey spritesheet 2_1537
+  - first:
+      213: 6974294569872461672
+    second: Dark grey spritesheet 2_1538
+  - first:
+      213: -8221757918259327275
+    second: Dark grey spritesheet 2_1539
+  - first:
+      213: 3038547467360304265
+    second: Dark grey spritesheet 2_1540
+  - first:
+      213: 6581367960885649918
+    second: Dark grey spritesheet 2_1541
+  - first:
+      213: -1289398066439460031
+    second: Dark grey spritesheet 2_1542
+  - first:
+      213: -6567386146867639994
+    second: Dark grey spritesheet 2_1543
+  - first:
+      213: 732295857053033615
+    second: Dark grey spritesheet 2_1544
+  - first:
+      213: 243040728432958840
+    second: Dark grey spritesheet 2_1545
+  - first:
+      213: -4923739170512886156
+    second: Dark grey spritesheet 2_1546
+  - first:
+      213: 1363448334834615546
+    second: Dark grey spritesheet 2_1547
+  - first:
+      213: -8903992433513815363
+    second: Dark grey spritesheet 2_1548
+  - first:
+      213: 6166083166486797868
+    second: Dark grey spritesheet 2_1549
+  - first:
+      213: 5883596146798499163
+    second: Dark grey spritesheet 2_1550
+  - first:
+      213: -5434961982445808145
+    second: Dark grey spritesheet 2_1551
+  - first:
+      213: -3682545183332776848
+    second: Dark grey spritesheet 2_1552
+  - first:
+      213: -3721969537825085082
+    second: Dark grey spritesheet 2_1553
+  - first:
+      213: -5586662258121649888
+    second: Dark grey spritesheet 2_1554
+  - first:
+      213: -4041497771194646761
+    second: Dark grey spritesheet 2_1555
+  - first:
+      213: 4062825075221874376
+    second: Dark grey spritesheet 2_1556
+  - first:
+      213: 5381297252448778088
+    second: Dark grey spritesheet 2_1557
+  - first:
+      213: 881344311060489999
+    second: Dark grey spritesheet 2_1558
+  - first:
+      213: -4737869291415050393
+    second: Dark grey spritesheet 2_1559
+  - first:
+      213: -6143716254611285702
+    second: Dark grey spritesheet 2_1560
+  - first:
+      213: -5784608338891752349
+    second: Dark grey spritesheet 2_1561
+  - first:
+      213: -1554035754139745856
+    second: Dark grey spritesheet 2_1562
+  - first:
+      213: 6769493195081741001
+    second: Dark grey spritesheet 2_1563
+  - first:
+      213: -1666349659983823697
+    second: Dark grey spritesheet 2_1564
+  - first:
+      213: 54028407349871940
+    second: Dark grey spritesheet 2_1565
+  - first:
+      213: -6215569902020722260
+    second: Dark grey spritesheet 2_1566
+  - first:
+      213: 3971863472025409308
+    second: Dark grey spritesheet 2_1567
+  - first:
+      213: 325666981715849634
+    second: Dark grey spritesheet 2_1568
+  - first:
+      213: 579985610517739284
+    second: Dark grey spritesheet 2_1569
+  - first:
+      213: 1739702083384178319
+    second: Dark grey spritesheet 2_1570
+  - first:
+      213: 7305698220786850179
+    second: Dark grey spritesheet 2_1571
+  - first:
+      213: -3766252349526803249
+    second: Dark grey spritesheet 2_1572
+  - first:
+      213: -4227464409602403889
+    second: Dark grey spritesheet 2_1573
+  - first:
+      213: 7099788371077482456
+    second: Dark grey spritesheet 2_1574
+  - first:
+      213: -7619708176442186246
+    second: Dark grey spritesheet 2_1575
+  - first:
+      213: 8472368041586222794
+    second: Dark grey spritesheet 2_1576
+  - first:
+      213: 1016705445378269567
+    second: Dark grey spritesheet 2_1577
+  - first:
+      213: 3240540303104046933
+    second: Dark grey spritesheet 2_1578
+  - first:
+      213: -5826086124029266895
+    second: Dark grey spritesheet 2_1579
+  - first:
+      213: -3023358064440455167
+    second: Dark grey spritesheet 2_1580
+  - first:
+      213: 4741558975283841047
+    second: Dark grey spritesheet 2_1581
+  - first:
+      213: 3880703113384415910
+    second: Dark grey spritesheet 2_1582
+  - first:
+      213: -495141591739152522
+    second: Dark grey spritesheet 2_1583
+  - first:
+      213: 3441990106511477572
+    second: Dark grey spritesheet 2_1584
+  - first:
+      213: -6590134642544647544
+    second: Dark grey spritesheet 2_1585
+  - first:
+      213: 4134294483768706362
+    second: Dark grey spritesheet 2_1586
+  - first:
+      213: -7924796626378838036
+    second: Dark grey spritesheet 2_1587
+  - first:
+      213: 970145003309363809
+    second: Dark grey spritesheet 2_1588
+  - first:
+      213: -5906221724282232231
+    second: Dark grey spritesheet 2_1589
+  - first:
+      213: 6609815610501182556
+    second: Dark grey spritesheet 2_1590
+  - first:
+      213: 3046558311183961208
+    second: Dark grey spritesheet 2_1591
+  - first:
+      213: 7897464034914045858
+    second: Dark grey spritesheet 2_1592
+  - first:
+      213: -5905403945015366941
+    second: Dark grey spritesheet 2_1593
+  - first:
+      213: -962607425100652153
+    second: Dark grey spritesheet 2_1594
+  - first:
+      213: -9144741638783854669
+    second: Dark grey spritesheet 2_1595
+  - first:
+      213: 5985092758112954060
+    second: Dark grey spritesheet 2_1596
+  - first:
+      213: 1558990867692944922
+    second: Dark grey spritesheet 2_1597
+  - first:
+      213: 6502199603233306019
+    second: Dark grey spritesheet 2_1598
+  - first:
+      213: -4163837151678630495
+    second: Dark grey spritesheet 2_1599
+  - first:
+      213: 1569285381400674481
+    second: Dark grey spritesheet 2_1600
+  - first:
+      213: -6271744522117355295
+    second: Dark grey spritesheet 2_1601
+  - first:
+      213: 1111743026805792537
+    second: Dark grey spritesheet 2_1602
+  - first:
+      213: 8533711227441448764
+    second: Dark grey spritesheet 2_1603
+  - first:
+      213: 1293152900353529374
+    second: Dark grey spritesheet 2_1604
+  - first:
+      213: -6660657984517726692
+    second: Dark grey spritesheet 2_1605
+  - first:
+      213: 4753685389938500345
+    second: Dark grey spritesheet 2_1606
+  - first:
+      213: 8480771110978427788
+    second: Dark grey spritesheet 2_1607
+  - first:
+      213: 4160487861860115537
+    second: Dark grey spritesheet 2_1608
+  - first:
+      213: -1941259036715263682
+    second: Dark grey spritesheet 2_1609
+  - first:
+      213: -8997943193544621555
+    second: Dark grey spritesheet 2_1610
+  - first:
+      213: -7113610416581111330
+    second: Dark grey spritesheet 2_1611
+  - first:
+      213: 1592152629321656085
+    second: Dark grey spritesheet 2_1612
+  - first:
+      213: 299280451739218368
+    second: Dark grey spritesheet 2_1613
+  - first:
+      213: -5675830945436841668
+    second: Dark grey spritesheet 2_1614
+  - first:
+      213: -3662029369349895813
+    second: Dark grey spritesheet 2_1615
+  - first:
+      213: 5125414303519455012
+    second: Dark grey spritesheet 2_1616
+  - first:
+      213: -3519103223955263046
+    second: Dark grey spritesheet 2_1617
+  - first:
+      213: 3965161710299029671
+    second: Dark grey spritesheet 2_1618
+  - first:
+      213: -5410094937327127592
+    second: Dark grey spritesheet 2_1619
+  - first:
+      213: 4726634063894266602
+    second: Dark grey spritesheet 2_1620
+  - first:
+      213: -7958027793869791943
+    second: Dark grey spritesheet 2_1621
+  - first:
+      213: 3191931974653581147
+    second: Dark grey spritesheet 2_1622
+  - first:
+      213: 6152750543469034579
+    second: Dark grey spritesheet 2_1623
+  - first:
+      213: 4964412077984411778
+    second: Dark grey spritesheet 2_1624
+  - first:
+      213: 8062427573631138836
+    second: Dark grey spritesheet 2_1625
+  - first:
+      213: 6840197068046440249
+    second: Dark grey spritesheet 2_1626
+  - first:
+      213: 4046172882279778142
+    second: Dark grey spritesheet 2_1627
+  - first:
+      213: 7810145792770583508
+    second: Dark grey spritesheet 2_1628
+  - first:
+      213: 2936015398302008184
+    second: Dark grey spritesheet 2_1629
+  - first:
+      213: -159380175190901813
+    second: Dark grey spritesheet 2_1630
+  - first:
+      213: -6295406006125825950
+    second: Dark grey spritesheet 2_1631
+  - first:
+      213: -4929189631244520250
+    second: Dark grey spritesheet 2_1632
+  - first:
+      213: -8205548716018235218
+    second: Dark grey spritesheet 2_1633
+  - first:
+      213: -8696768906383916978
+    second: Dark grey spritesheet 2_1634
+  - first:
+      213: -6401678470282821667
+    second: Dark grey spritesheet 2_1635
+  - first:
+      213: 9183062152045378695
+    second: Dark grey spritesheet 2_1636
+  - first:
+      213: -8072967425085962138
+    second: Dark grey spritesheet 2_1637
+  - first:
+      213: 8534827983979362973
+    second: Dark grey spritesheet 2_1638
+  - first:
+      213: 3962605265989112352
+    second: Dark grey spritesheet 2_1639
+  - first:
+      213: -7422958878395726004
+    second: Dark grey spritesheet 2_1640
+  - first:
+      213: 396020235689394223
+    second: Dark grey spritesheet 2_1641
+  - first:
+      213: 191345240913801584
+    second: Dark grey spritesheet 2_1642
+  - first:
+      213: -4082411418126047941
+    second: Dark grey spritesheet 2_1643
+  - first:
+      213: -9160364048722144296
+    second: Dark grey spritesheet 2_1644
+  - first:
+      213: -5232963289980280735
+    second: Dark grey spritesheet 2_1645
+  - first:
+      213: 5836798882850750464
+    second: Dark grey spritesheet 2_1646
+  - first:
+      213: -1018063239248309430
+    second: Dark grey spritesheet 2_1647
+  - first:
+      213: 6847284062182865770
+    second: Dark grey spritesheet 2_1648
+  - first:
+      213: -1034740057878703346
+    second: Dark grey spritesheet 2_1649
+  - first:
+      213: -5072300885314130212
+    second: Dark grey spritesheet 2_1650
+  - first:
+      213: 619358671476318333
+    second: Dark grey spritesheet 2_1651
+  - first:
+      213: 2661679207236286186
+    second: Dark grey spritesheet 2_1652
+  - first:
+      213: 4558945695745283673
+    second: Dark grey spritesheet 2_1653
+  - first:
+      213: -8924543425774143016
+    second: Dark grey spritesheet 2_1654
+  - first:
+      213: 1447209741070999507
+    second: Dark grey spritesheet 2_1655
+  - first:
+      213: 5504405482158225254
+    second: Dark grey spritesheet 2_1656
+  - first:
+      213: 4705272904220470055
+    second: Dark grey spritesheet 2_1657
+  - first:
+      213: -4409491595090650424
+    second: Dark grey spritesheet 2_1658
+  - first:
+      213: -954065114795113374
+    second: Dark grey spritesheet 2_1659
+  - first:
+      213: 5955338766186943015
+    second: Dark grey spritesheet 2_1660
+  - first:
+      213: -8590079070866091992
+    second: Dark grey spritesheet 2_1661
+  - first:
+      213: 6510519307267438818
+    second: Dark grey spritesheet 2_1662
+  - first:
+      213: -6921984544886532418
+    second: Dark grey spritesheet 2_1663
+  - first:
+      213: 5946278017385828894
+    second: Dark grey spritesheet 2_1664
+  - first:
+      213: 5381386637118880828
+    second: Dark grey spritesheet 2_1665
+  - first:
+      213: 3301727511953117195
+    second: Dark grey spritesheet 2_1666
+  - first:
+      213: 5396184254614260366
+    second: Dark grey spritesheet 2_1667
+  - first:
+      213: 2308494298512339440
+    second: Dark grey spritesheet 2_1668
+  - first:
+      213: 4021941900663654459
+    second: Dark grey spritesheet 2_1669
+  - first:
+      213: 6668888886974377776
+    second: Dark grey spritesheet 2_1670
+  - first:
+      213: -628326262417752224
+    second: Dark grey spritesheet 2_1671
+  - first:
+      213: -3180546617139070590
+    second: Dark grey spritesheet 2_1672
+  - first:
+      213: 6663655389528808029
+    second: Dark grey spritesheet 2_1673
+  - first:
+      213: -2877813806367783524
+    second: Dark grey spritesheet 2_1674
+  - first:
+      213: 800689150702984383
+    second: Dark grey spritesheet 2_1675
+  - first:
+      213: -7115234274501704631
+    second: Dark grey spritesheet 2_1676
+  - first:
+      213: -6210074078438833579
+    second: Dark grey spritesheet 2_1677
+  - first:
+      213: -8591068142856807940
+    second: Dark grey spritesheet 2_1678
+  - first:
+      213: 352508785869710568
+    second: Dark grey spritesheet 2_1679
+  - first:
+      213: 1880765320907699516
+    second: Dark grey spritesheet 2_1680
+  - first:
+      213: -3904707306342365839
+    second: Dark grey spritesheet 2_1681
+  - first:
+      213: 1656342923299307924
+    second: Dark grey spritesheet 2_1682
+  - first:
+      213: 4977354823973041555
+    second: Dark grey spritesheet 2_1683
+  - first:
+      213: -351735876897126587
+    second: Dark grey spritesheet 2_1684
+  - first:
+      213: 9154010952281476679
+    second: Dark grey spritesheet 2_1685
+  - first:
+      213: 936149465702516412
+    second: Dark grey spritesheet 2_1686
+  - first:
+      213: 8398183003908655762
+    second: Dark grey spritesheet 2_1687
+  - first:
+      213: 3547405745897949645
+    second: Dark grey spritesheet 2_1688
+  - first:
+      213: 278649203024016950
+    second: Dark grey spritesheet 2_1689
+  - first:
+      213: 3844335536402310189
+    second: Dark grey spritesheet 2_1690
+  - first:
+      213: 5760456131632245057
+    second: Dark grey spritesheet 2_1691
+  - first:
+      213: 246464024946785458
+    second: Dark grey spritesheet 2_1692
+  - first:
+      213: -5787435666601109129
+    second: Dark grey spritesheet 2_1693
+  - first:
+      213: -1039622647455432329
+    second: Dark grey spritesheet 2_1694
+  - first:
+      213: -415297888936023391
+    second: Dark grey spritesheet 2_1695
+  - first:
+      213: 3439489042904758649
+    second: Dark grey spritesheet 2_1696
+  - first:
+      213: 4918902620865576058
+    second: Dark grey spritesheet 2_1697
+  - first:
+      213: 4005269271553607700
+    second: Dark grey spritesheet 2_1698
+  - first:
+      213: -986684551562073989
+    second: Dark grey spritesheet 2_1699
+  - first:
+      213: -4546736375964614477
+    second: Dark grey spritesheet 2_1700
+  - first:
+      213: -2314643886824533768
+    second: Dark grey spritesheet 2_1701
+  - first:
+      213: 6364254262667965608
+    second: Dark grey spritesheet 2_1702
+  - first:
+      213: -8070185466707495920
+    second: Dark grey spritesheet 2_1703
+  - first:
+      213: -4431479710872517215
+    second: Dark grey spritesheet 2_1704
+  - first:
+      213: 1463454980691443668
+    second: Dark grey spritesheet 2_1705
+  - first:
+      213: 6108685195713016115
+    second: Dark grey spritesheet 2_1706
+  - first:
+      213: -3091999599611955645
+    second: Dark grey spritesheet 2_1707
+  - first:
+      213: 4314883876875774369
+    second: Dark grey spritesheet 2_1708
+  - first:
+      213: 3178460052336800697
+    second: Dark grey spritesheet 2_1709
+  - first:
+      213: -7788385085926707413
+    second: Dark grey spritesheet 2_1710
+  - first:
+      213: -1403523606429119652
+    second: Dark grey spritesheet 2_1711
+  - first:
+      213: 187724608808328829
+    second: Dark grey spritesheet 2_1712
+  - first:
+      213: 7388420029865966597
+    second: Dark grey spritesheet 2_1713
+  - first:
+      213: -6007227458487120624
+    second: Dark grey spritesheet 2_1714
+  - first:
+      213: 2566287003876819354
+    second: Dark grey spritesheet 2_1715
+  - first:
+      213: -1310152239671514130
+    second: Dark grey spritesheet 2_1716
+  - first:
+      213: -2536259215644458518
+    second: Dark grey spritesheet 2_1717
+  - first:
+      213: -269946035623176516
+    second: Dark grey spritesheet 2_1718
+  - first:
+      213: -6664012552900231946
+    second: Dark grey spritesheet 2_1719
+  - first:
+      213: 3866618642987457770
+    second: Dark grey spritesheet 2_1720
+  - first:
+      213: 7673135828560152874
+    second: Dark grey spritesheet 2_1721
+  - first:
+      213: 5047956563765820388
+    second: Dark grey spritesheet 2_1722
+  - first:
+      213: 5899504218887907322
+    second: Dark grey spritesheet 2_1723
+  - first:
+      213: -3769951262488895729
+    second: Dark grey spritesheet 2_1724
+  - first:
+      213: -6634106727497778575
+    second: Dark grey spritesheet 2_1725
+  - first:
+      213: 3327940098602580449
+    second: Dark grey spritesheet 2_1726
+  - first:
+      213: -8792119909284872301
+    second: Dark grey spritesheet 2_1727
+  - first:
+      213: -533086256625766526
+    second: Dark grey spritesheet 2_1728
+  - first:
+      213: 7937766532133991451
+    second: Dark grey spritesheet 2_1729
+  - first:
+      213: 3752777392579610845
+    second: Dark grey spritesheet 2_1730
+  - first:
+      213: 5829027032585933137
+    second: Dark grey spritesheet 2_1731
+  - first:
+      213: -9031653493008320474
+    second: Dark grey spritesheet 2_1732
+  - first:
+      213: -2959432303748569364
+    second: Dark grey spritesheet 2_1733
+  - first:
+      213: -1932714583188332652
+    second: Dark grey spritesheet 2_1734
+  - first:
+      213: 8656404158051228612
+    second: Dark grey spritesheet 2_1735
+  - first:
+      213: 8474222996939023934
+    second: Dark grey spritesheet 2_1736
+  - first:
+      213: 3889466905544169825
+    second: Dark grey spritesheet 2_1737
+  - first:
+      213: 2786460260731414046
+    second: Dark grey spritesheet 2_1738
+  - first:
+      213: -4529061700427349119
+    second: Dark grey spritesheet 2_1739
+  - first:
+      213: 7043712076511016555
+    second: Dark grey spritesheet 2_1740
+  - first:
+      213: 4045310152971624924
+    second: Dark grey spritesheet 2_1741
+  - first:
+      213: 4735491163749507741
+    second: Dark grey spritesheet 2_1742
+  - first:
+      213: 9045590949729618026
+    second: Dark grey spritesheet 2_1743
+  - first:
+      213: -6868515868380353148
+    second: Dark grey spritesheet 2_1744
+  - first:
+      213: 6553104042584838164
+    second: Dark grey spritesheet 2_1745
+  - first:
+      213: 9104079904901237279
+    second: Dark grey spritesheet 2_1746
+  - first:
+      213: -3902610308562410956
+    second: Dark grey spritesheet 2_1747
+  - first:
+      213: 1363889238738275486
+    second: Dark grey spritesheet 2_1748
+  - first:
+      213: -1634112538505155809
+    second: Dark grey spritesheet 2_1749
+  - first:
+      213: -304107081088826609
+    second: Dark grey spritesheet 2_1750
+  - first:
+      213: -438111965060919539
+    second: Dark grey spritesheet 2_1751
+  - first:
+      213: -31364361581298629
+    second: Dark grey spritesheet 2_1752
+  - first:
+      213: -3154619752070835491
+    second: Dark grey spritesheet 2_1753
+  - first:
+      213: 9021338471011439183
+    second: Dark grey spritesheet 2_1754
+  - first:
+      213: 209603641952863501
+    second: Dark grey spritesheet 2_1755
+  - first:
+      213: -5510439154947541369
+    second: Dark grey spritesheet 2_1756
+  - first:
+      213: 8988716279783842848
+    second: Dark grey spritesheet 2_1757
+  - first:
+      213: 8898869809214360449
+    second: Dark grey spritesheet 2_1758
+  - first:
+      213: -1686919820741834247
+    second: Dark grey spritesheet 2_1759
+  - first:
+      213: -982634251390766206
+    second: Dark grey spritesheet 2_1760
+  - first:
+      213: -1856045238021636578
+    second: Dark grey spritesheet 2_1761
+  - first:
+      213: -3908567235794447430
+    second: Dark grey spritesheet 2_1762
+  - first:
+      213: -2553249731802516885
+    second: Dark grey spritesheet 2_1763
+  - first:
+      213: -1772055804921033757
+    second: Dark grey spritesheet 2_1764
+  - first:
+      213: 5583779497448026696
+    second: Dark grey spritesheet 2_1765
+  - first:
+      213: 6240730636467978761
+    second: Dark grey spritesheet 2_1766
+  - first:
+      213: -4982345020789543779
+    second: Dark grey spritesheet 2_1767
+  - first:
+      213: 6662323486380853177
+    second: Dark grey spritesheet 2_1768
+  - first:
+      213: 6655327238900496969
+    second: Dark grey spritesheet 2_1769
+  - first:
+      213: -8529492938886218863
+    second: Dark grey spritesheet 2_1770
+  - first:
+      213: 3025870618531984682
+    second: Dark grey spritesheet 2_1771
+  - first:
+      213: 8939249571499430763
+    second: Dark grey spritesheet 2_1772
+  - first:
+      213: -1658956252702493886
+    second: Dark grey spritesheet 2_1773
+  - first:
+      213: 381453036831370989
+    second: Dark grey spritesheet 2_1774
+  - first:
+      213: -711427350509389197
+    second: Dark grey spritesheet 2_1775
+  - first:
+      213: -604220648958250318
+    second: Dark grey spritesheet 2_1776
+  - first:
+      213: -1038072733651267434
+    second: Dark grey spritesheet 2_1777
+  - first:
+      213: -7437359977227646708
+    second: Dark grey spritesheet 2_1778
+  - first:
+      213: 6627860848166773504
+    second: Dark grey spritesheet 2_1779
+  - first:
+      213: 5025411943345965430
+    second: Dark grey spritesheet 2_1780
+  - first:
+      213: -4781726779213903723
+    second: Dark grey spritesheet 2_1781
+  - first:
+      213: -3961603817855848438
+    second: Dark grey spritesheet 2_1782
+  - first:
+      213: -6309421125849664586
+    second: Dark grey spritesheet 2_1783
+  - first:
+      213: 4567669118432306129
+    second: Dark grey spritesheet 2_1784
+  - first:
+      213: 5494363559421213138
+    second: Dark grey spritesheet 2_1785
+  - first:
+      213: -718044060721330020
+    second: Dark grey spritesheet 2_1786
+  - first:
+      213: -4753045155979175264
+    second: Dark grey spritesheet 2_1787
+  - first:
+      213: -9055493688772135822
+    second: Dark grey spritesheet 2_1788
+  - first:
+      213: -3391503857201371904
+    second: Dark grey spritesheet 2_1789
+  - first:
+      213: 4557097121528192805
+    second: Dark grey spritesheet 2_1790
+  - first:
+      213: -3675229775600321030
+    second: Dark grey spritesheet 2_1791
+  - first:
+      213: 3868260787918715209
+    second: Dark grey spritesheet 2_1792
+  - first:
+      213: -2316645154503458274
+    second: Dark grey spritesheet 2_1793
+  - first:
+      213: -4625352489075754673
+    second: Dark grey spritesheet 2_1794
+  - first:
+      213: 6824126035954948099
+    second: Dark grey spritesheet 2_1795
+  - first:
+      213: -5672707327732006676
+    second: Dark grey spritesheet 2_1796
+  - first:
+      213: -4182377532484286235
+    second: Dark grey spritesheet 2_1797
+  - first:
+      213: -7882851429314074876
+    second: Dark grey spritesheet 2_1798
+  - first:
+      213: 8498504898795647255
+    second: Dark grey spritesheet 2_1799
+  - first:
+      213: 4444558560177735002
+    second: Dark grey spritesheet 2_1800
+  - first:
+      213: 6778024598292611802
+    second: Dark grey spritesheet 2_1801
+  - first:
+      213: 1561118260596980803
+    second: Dark grey spritesheet 2_1802
+  - first:
+      213: -5943043164968395949
+    second: Dark grey spritesheet 2_1803
+  - first:
+      213: -2049993378367379249
+    second: Dark grey spritesheet 2_1804
+  - first:
+      213: 3963972435323551354
+    second: Dark grey spritesheet 2_1805
+  - first:
+      213: -3971546431978710074
+    second: Dark grey spritesheet 2_1806
+  - first:
+      213: 5825985411814757091
+    second: Dark grey spritesheet 2_1807
+  - first:
+      213: -4239002138347334202
+    second: Dark grey spritesheet 2_1808
+  - first:
+      213: -4378093970154339752
+    second: Dark grey spritesheet 2_1809
+  - first:
+      213: -3431468053500953523
+    second: Dark grey spritesheet 2_1810
+  - first:
+      213: -1978998298085463405
+    second: Dark grey spritesheet 2_1811
+  - first:
+      213: 5804430633611526380
+    second: Dark grey spritesheet 2_1812
+  - first:
+      213: 7045092391531644127
+    second: Dark grey spritesheet 2_1813
+  - first:
+      213: -2858853082535321572
+    second: Dark grey spritesheet 2_1814
+  - first:
+      213: -6314978976266477215
+    second: Dark grey spritesheet 2_1815
+  - first:
+      213: 7299569145813067054
+    second: Dark grey spritesheet 2_1816
+  - first:
+      213: -5461776747975117438
+    second: Dark grey spritesheet 2_1817
+  - first:
+      213: 4124001734193989331
+    second: Dark grey spritesheet 2_1818
+  - first:
+      213: -1559966846168308860
+    second: Dark grey spritesheet 2_1819
+  - first:
+      213: -6527317141878854430
+    second: Dark grey spritesheet 2_1820
+  - first:
+      213: -5600639630270570352
+    second: Dark grey spritesheet 2_1821
+  - first:
+      213: 5347002300276040013
+    second: Dark grey spritesheet 2_1822
+  - first:
+      213: 6971098317603182970
+    second: Dark grey spritesheet 2_1823
+  - first:
+      213: -5202820509010003840
+    second: Dark grey spritesheet 2_1824
+  - first:
+      213: 4307026571660243765
+    second: Dark grey spritesheet 2_1825
+  - first:
+      213: -1261607496302588943
+    second: Dark grey spritesheet 2_1826
+  - first:
+      213: -7779265723698607158
+    second: Dark grey spritesheet 2_1827
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Web
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DGT Automatic rifle 6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3567
+        width: 1517
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Automatic rifle 1
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 3594
+        width: 1540
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Handgun 5
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 3633
+        width: 530
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Automatic rifle 5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2949
+        width: 1381
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Semiautomatic rifle 1
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 3168
+        width: 1683
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Handgun 4
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 3193
+        width: 534
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Shotgun 2
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 2880
+        width: 1670
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Handgun 3
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 2808
+        width: 668
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Submachinegun 3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2475
+        width: 743
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Automatic rifle 2
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2491
+        width: 854
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Sniper 3
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2488
+        width: 1694
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Handgun 2
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 2331
+        width: 660
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Submachinegun 1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1967
+        width: 1163
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Shotgun 1
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2111
+        width: 1628
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Handgun 1
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 1816
+        width: 626
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Rifle 1
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1792
+        width: 1724
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Rocketlauncher 1
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1391
+        width: 1854
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Sniper 2
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 907
+        width: 1702
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Sniper 1
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 440
+        width: 1720
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Combat knife
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 107
+        width: 849
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Automatic shotgun 1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1484
+        width: 1278
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Submachinegun 2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 26
+        width: 1046
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Automatic rifle 3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 990
+        width: 1595
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DGT Automatic rifle 4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 507
+        width: 1579
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
